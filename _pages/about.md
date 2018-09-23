@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hung Do"
+title: "Hung Do, PhD, MSEE"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
