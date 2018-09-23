@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Welcome to Hung Do's Homepage"
 title_separator          : "-"
-name                     : "Hung Do" #&name "Hung Do"
+name                     : "Hung Do, PhD, MSEE" #&name "Hung Do"
 description              : "Hung Do's Homepage" #&description "Hung Do's personal homepage"
 url                      : https://hdocmsu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,8 +83,11 @@ author:
   avatar           : "/hdo/HungDO.jpg"
   bio              : "I am an MR Physicist interested in applying Data Science, Machine Learning, Deep Learning, and Artificial Intelligence to Medical Imaging and Healthecare."
   location         : "Tustin, CA"
-  employer         :
+  employer         : "https://us.medical.canon/"
+  linkedin         : "hdocmsu"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ES-1vcEAAAAJ"
+  twitter          : "hdocmsu"
+  github           : "hdocmsu"
   email            :
   uri              :
   bitbucket        :
@@ -93,19 +96,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hdocmsu"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "hdocmsu"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "hdocmsu"
   vine             :
   weibo            :
   xing             :
