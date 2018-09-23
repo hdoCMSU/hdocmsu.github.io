@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Hung Do"
-  avatar           : "/images/hdo/HungDO.jpg"
+  avatar           : "/hdo/HungDO.jpg"
   bio              : "I am an MR Physicist interested in applying Data Science, Machine Learning, Deep Learning, and Artificial Intelligence to Medical Imaging and Healthecare."
   location         : "Tustin, CA"
   employer         :
