@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Hung Do's Personal Webpage"
+title                    : "Welcome to Hung Do's Homepage"
 title_separator          : "-"
-name                     : &name "Hung Do"
-description              : &description "Hung Do's personal homepage"
+name                     : "Hung Do" #&name "Hung Do"
+description              : "Hung Do's Homepage" #&description "Hung Do's personal homepage"
 url                      : https://hdocmsu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hdocmsu/hdocmsu.github.io"
