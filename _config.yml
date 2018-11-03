@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Hung Do's Homepage"
+title                    : "Welcome to HungDo's Homepage"
 title_separator          : "-"
-name                     : "Hung Do, PhD, MSEE" #&name "Hung Do"
-description              : "Hung Do's Homepage" #&description "Hung Do's personal homepage"
+name                     : "Hung P. Do, PhD, MSEE" #&name "Hung Do"
+description              : "HungDo's Homepage" #&description "Hung Do's personal homepage"
 url                      : "https://hdocmsu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hdocmsu/hdocmsu.github.io"
@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Hung Do, PhD, MSEE"
   avatar           : "/hdo/HungDO.jpg"
-  bio              : "I am an MR Physicist interested in applying Data Science, Machine Learning, Deep Learning, and Artificial Intelligence to Medical Imaging and Healthecare."
-  location         : "Canon Medical Systems USA"
+  bio              : "MR Physicist"
+  location         : "Canon Medical"
   employer         : "Tustin, CA"
   linkedin         : "hdocmsu"
   twitter          : "hdocmsu"
