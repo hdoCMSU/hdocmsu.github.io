@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -30,9 +30,9 @@ Hung Do is an MR Physicist in the Clinical Collaborations Department, [Canon Med
 Research Interests
 ------
 + Data Science, Machine Learning, Deep Learning, and Artificial Intelligence
-+ Novel Pulse Sequence Designs
-+ Novel Reconstruction Algorithms
-+ MR Physics and Quantitative Imaging Methods
++ Novel MRI Pulse Sequence Designs
++ Novel MRI Reconstruction Algorithms
++ MR Physics and Quantitative MRI Methods
 + Translational and Clinical Research
 
 Contact Information
