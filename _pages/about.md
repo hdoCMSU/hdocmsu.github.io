@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "Hung Phi Do, PhD, MSEE"
+title: ""
 excerpt: "About me"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
@@ -11,7 +11,9 @@ redirect_from:
 Hung Phi Do, PhD, MSEE
 ------
 
-Manager Clinical Collaborations
+Manager Clinical Collaborations  
+Department of Clinical Collaborations  
+[Canon Medical Systems USA, Inc.](https://us.medical.canon/)
 
 Education
 ------
