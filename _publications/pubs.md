@@ -1,9 +1,7 @@
 ---
 permalink: /publications/pubs.html
 title: "Publications List"
-redirect_from: 
-  - /publications/
-  - /publications/pubs.html
+
 ---
 
 Journal Papers
