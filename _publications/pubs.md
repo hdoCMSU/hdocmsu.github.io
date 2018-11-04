@@ -1,6 +1,6 @@
 ---
 permalink: /publications/pubs.html
-title: "Publications"
+title: "Publications List"
 redirect_from: 
   - /publications/
   - /publications/pubs.html
@@ -16,7 +16,6 @@ Journal Papers
 1.	**HP Do**, TR Jao, KS Nayak. “Myocardial Arterial Spin Labeling Perfusion Imaging with Improved Sensitivity.” _Journal of Cardiovascular Magnetic Resonance_ 16:15, January 2014.  
 1.	**HP Do**, HL Dao, NT Do, TV Ngo, AV Nguyen. “On the New Type of Optical Bio-sensor from DNA-wrapped Carbon Nanotubes.” _Communications in Physics_ 18:151-156, 2008.  
 
-
 Patents
 ------
 1. **HP Do**, TR Jao, KS Nayak. “Synchronized Multi-Module Pulsed Arterial Spin Labeled Magnetic Resonance Imaging.” _International Patent_ No. WO/2016/089895, June 2016.
@@ -24,27 +23,26 @@ Patents
 Peer-reviewed Conference Papers
 ------
 1.	**HP Do**, AJ Yoon, and KS Nayak. “dnoiseNET: Deep Convolutional Neural Network for Image Denoising.” _The ISMRM & SCMR Co-Provided Workshop on the Emerging Role of Machine Learning in Cardiovascular Magnetic Resonance Imaging_, Seattle, February 2019 (**Oral Presentation**)  
-2.	**HP Do**, Y Guo, AJ Yoon, and KS Nayak. “Deep Convolutional Neural Network for Segmentation of Myocardial ASL Short-Axis Data: Accuracy, Uncertainty, and Adaptability.” _The ISMRM Workshop on Machine Learning_, Washington D.C., October 2018 (**Oral Presentation**)
-3.	GR Matcuk, **HP Do**, JS Gross, BK Fields, M Franco, B Desai. “Compressed Sensing Magnetic Resonance Imaging (CS-MRI) for Accelerated Knee MR Imaging.” _The Radiological Society of North America (RSNA) Education Exhibits_, Chicago, November 2018.  
-4.	**HP Do**, TR Jao, V Ramanan, G Wright, NR Ghugre, and KS Nayak. “Optimal Flip Angle for Steady Pulsed Arterial Spin Labeled CMR.” _The ISMRM/SCMR Co-provided Workshop on CMR in Ischemic Heart Disease_, Barcelona, Spain, February 2018.
-5.	A Javed, **HP Do**, AJ Yoon, KS Nayak, and P Garg. “Coronary Endothelial Function Testing using Continuous Cardiac ASL-CMR.” _The ISMRM/SCMR Co-provided Workshop on CMR in Ischemic Heart Disease_, Barcelona, Spain, February 2018.
-6.	**HP Do**, KS Nayak. “Physiologically Synchronized Multi-Module Pulsed Arterial Spin Labeled (SymPASL) MRI.” _International Society for Magnetic Resonance in Medicine 25th Scientific Meeting_, Hawaii, April 2017.
-7.	NR Ghugre, **HP Do**, K Chu, V Ramanan, KS Nayak, and GA Wright. “Non-contrast Assessment of Vasodilator Response using Native Myocardial T1 and T2 Mapping and Arterial Spin Labeled CMR.” _International Society for Magnetic Resonance in Medicine 25th Scientific Meeting_, Hawaii, April 2017. (**Power Pitch**)
-8.	VL Landes, CM Ferguson, **HP Do**, JR Woollard, JD Krier, LO Lerman, KS Nayak. “Comparison of Renal Blood Flow Measurements Obtained using ASL-MRI and CT Perfusion.” _International Society for Magnetic Resonance in Medicine 25th Scientific Meeting_, Hawaii, April 2017.
-9.	**HP Do**, AJ Yoon, MW Fong, L Grazette, F Saremi, ML Barr, KS Nayak. “Vasodilator Response in Heart Transplant Recipients using T1-based Myocardial Blood Volume Mapping.” _The SCMR/ISMRM Co-provided Workshop_, Washington DC, February 2017. (**Oral Presentation**)
-10.	NR Ghugre, **HP Do**, V Ramanan, KS Nayak, GA Wright. “Contrast Free Assessment of Vasodilator Response using Myocardial T2 BOLD and Arterial Spin Labeled CMR.” _The Society for Cardiovascular Magnetic Resonance 20th Annual Scientific Sessions_, Washington DC, February 2017. (**Walking Poster**)
-11.	**HP Do**, V Ramanan, GA Wright, NR Ghugre, KS Nayak. “Non-contrast Vasodilator Response Assessment in a porcine model of Acute Myocardial Infarction using Arterial Spin Labeled CMR.” _International Society for Magnetic Resonance in Medicine 24th Scientific Meeting_, Singapore, May 2016. p. 0999. (**Oral Presentation**)
-12.	**HP Do**, AJ Yoon, MW Fong, F Saremi, ML Barr, KS Nayak. “Double-gated Myocardial Arterial Spin Labeled Perfusion Imaging provides Insensitivity to Heart Rate Variation.” _International Society for Magnetic Resonance in Medicine 24th Scientific Meeting_, Singapore, May 2016. p. 3145.
-13.	**HP Do**, KS Nayak. “Myocardial Arterial Spin Labeled Perfusion Imaging using Modified Look-Locker Inversion Recovery (MOLLI).” _International Society for Magnetic Resonance in Medicine 24th Scientific Meeting_, Singapore, May 2016. p. 3142.
-14.	**HP Do**, V Ramanan, TR Jao, GA Wright, KS Nayak, NR Ghugre. “Non-contrast Myocardial Perfusion Assessment in Porcine Acute Myocardial Infarction using Arterial Spin Labeled CMR.” _The Society for Cardiovascular Magnetic Resonance 19th Annual Scientific Sessions_, Los Angeles, January 2016. O. 007. (**Oral Presentation**)
-15.	TR Jao, **HP Do**, KS Nayak. “Myocardial ASL-CMR Perfusion Imaging with Improved Sensitivity using GRAPPA.” _The Society for Cardiovascular Magnetic Resonance19th Annual Scientific Sessions_, Los Angeles, January 2016. p. 100.
-16.	**HP Do**, A Javed, TR Jao, HW Kim, AJ Yoon, KS Nayak. "Arterial Spin Labeling CMR Perfusion Imaging is Capable of Continuously Monitoring Myocardial Blood Flow during Stress.” _The Society for Cardiovascular Magnetic Resonance and European Cardiovascular Magnetic Resonance Joint Scientific Sessions_, Nice, February 2015. p. 145.
-17.	TR Jao, **HP Do**, KS Nayak. “Temporal SNR of Myocardial ASL does not Increase with Improved Spatial Consistency of Background Suppression.” _Biomedical Engineering Society 2014 Annual Meeting_, San Antonio, 2014. p. 646.
-18.	**HP Do**, TR Jao, KS Nayak. “Myocardial Arterial Spin Labeling with Improved Sensitivity to Myocardial Blood Flow using Parallel Imaging.” _International Society for Magnetic Resonance in Medicine 22nd Scientific Meeting_, Milan, 2014. p. 2379.
-19.	TR Jao, **HP Do**, KS Nayak. “In Vivo Performance of Myocardial Background Suppression.” _International Society for Magnetic Resonance in Medicine 21st Scientific Meeting_, Salt Lake City, 2013. p. 4525.
-20.	**HP Do**, RM Lebel, KS Nayak. “Magnetization Transfer Effects in Wideband Steady State Free Precession (wb-SSFP).” _International Society for Magnetic Resonance in Medicine 19th Scientific Meeting_, Montreal, 2011. p. 2787.
-21.	**HP Do**, HL Dao, NT Do, TV Ngo, AV Nguyen. “On the New Type of Optical Bio-sensor from DNA-wrapped Carbon Nanotubes.” _Vietnam National Conference on Theoretical Physics 32nd Scientific Meeting_, Nha Trang, Vietnam, 2007 (**Oral Presentation**).
-
+1.	**HP Do**, Y Guo, AJ Yoon, and KS Nayak. “Deep Convolutional Neural Network for Segmentation of Myocardial ASL Short-Axis Data: Accuracy, Uncertainty, and Adaptability.” _The ISMRM Workshop on Machine Learning_, Washington D.C., October 2018 (**Oral Presentation**)
+1.	GR Matcuk, **HP Do**, JS Gross, BK Fields, M Franco, B Desai. “Compressed Sensing Magnetic Resonance Imaging (CS-MRI) for Accelerated Knee MR Imaging.” _The Radiological Society of North America (RSNA) Education Exhibits_, Chicago, November 2018.  
+1.	**HP Do**, TR Jao, V Ramanan, G Wright, NR Ghugre, and KS Nayak. “Optimal Flip Angle for Steady Pulsed Arterial Spin Labeled CMR.” _The ISMRM/SCMR Co-provided Workshop on CMR in Ischemic Heart Disease_, Barcelona, Spain, February 2018.
+1.	A Javed, **HP Do**, AJ Yoon, KS Nayak, and P Garg. “Coronary Endothelial Function Testing using Continuous Cardiac ASL-CMR.” _The ISMRM/SCMR Co-provided Workshop on CMR in Ischemic Heart Disease_, Barcelona, Spain, February 2018.
+1.	**HP Do**, KS Nayak. “Physiologically Synchronized Multi-Module Pulsed Arterial Spin Labeled (SymPASL) MRI.” _International Society for Magnetic Resonance in Medicine 25th Scientific Meeting_, Hawaii, April 2017.
+1.	NR Ghugre, **HP Do**, K Chu, V Ramanan, KS Nayak, and GA Wright. “Non-contrast Assessment of Vasodilator Response using Native Myocardial T1 and T2 Mapping and Arterial Spin Labeled CMR.” _International Society for Magnetic Resonance in Medicine 25th Scientific Meeting_, Hawaii, April 2017. (**Power Pitch**)
+1.	VL Landes, CM Ferguson, **HP Do**, JR Woollard, JD Krier, LO Lerman, KS Nayak. “Comparison of Renal Blood Flow Measurements Obtained using ASL-MRI and CT Perfusion.” _International Society for Magnetic Resonance in Medicine 25th Scientific Meeting_, Hawaii, April 2017.
+1.	**HP Do**, AJ Yoon, MW Fong, L Grazette, F Saremi, ML Barr, KS Nayak. “Vasodilator Response in Heart Transplant Recipients using T1-based Myocardial Blood Volume Mapping.” _The SCMR/ISMRM Co-provided Workshop_, Washington DC, February 2017. (**Oral Presentation**)
+1.	NR Ghugre, **HP Do**, V Ramanan, KS Nayak, GA Wright. “Contrast Free Assessment of Vasodilator Response using Myocardial T2 BOLD and Arterial Spin Labeled CMR.” _The Society for Cardiovascular Magnetic Resonance 20th Annual Scientific Sessions_, Washington DC, February 2017. (**Walking Poster**)
+1.	**HP Do**, V Ramanan, GA Wright, NR Ghugre, KS Nayak. “Non-contrast Vasodilator Response Assessment in a porcine model of Acute Myocardial Infarction using Arterial Spin Labeled CMR.” _International Society for Magnetic Resonance in Medicine 24th Scientific Meeting_, Singapore, May 2016. p. 0999. (**Oral Presentation**)
+1.	**HP Do**, AJ Yoon, MW Fong, F Saremi, ML Barr, KS Nayak. “Double-gated Myocardial Arterial Spin Labeled Perfusion Imaging provides Insensitivity to Heart Rate Variation.” _International Society for Magnetic Resonance in Medicine 24th Scientific Meeting_, Singapore, May 2016. p. 3145.
+1.	**HP Do**, KS Nayak. “Myocardial Arterial Spin Labeled Perfusion Imaging using Modified Look-Locker Inversion Recovery (MOLLI).” _International Society for Magnetic Resonance in Medicine 24th Scientific Meeting_, Singapore, May 2016. p. 3142.
+1.	**HP Do**, V Ramanan, TR Jao, GA Wright, KS Nayak, NR Ghugre. “Non-contrast Myocardial Perfusion Assessment in Porcine Acute Myocardial Infarction using Arterial Spin Labeled CMR.” _The Society for Cardiovascular Magnetic Resonance 19th Annual Scientific Sessions_, Los Angeles, January 2016. O. 007. (**Oral Presentation**)
+1.	TR Jao, **HP Do**, KS Nayak. “Myocardial ASL-CMR Perfusion Imaging with Improved Sensitivity using GRAPPA.” _The Society for Cardiovascular Magnetic Resonance19th Annual Scientific Sessions_, Los Angeles, January 2016. p. 100.
+1.	**HP Do**, A Javed, TR Jao, HW Kim, AJ Yoon, KS Nayak. "Arterial Spin Labeling CMR Perfusion Imaging is Capable of Continuously Monitoring Myocardial Blood Flow during Stress.” _The Society for Cardiovascular Magnetic Resonance and European Cardiovascular Magnetic Resonance Joint Scientific Sessions_, Nice, February 2015. p. 145.
+1.	TR Jao, **HP Do**, KS Nayak. “Temporal SNR of Myocardial ASL does not Increase with Improved Spatial Consistency of Background Suppression.” _Biomedical Engineering Society 2014 Annual Meeting_, San Antonio, 2014. p. 646.
+1.	**HP Do**, TR Jao, KS Nayak. “Myocardial Arterial Spin Labeling with Improved Sensitivity to Myocardial Blood Flow using Parallel Imaging.” _International Society for Magnetic Resonance in Medicine 22nd Scientific Meeting_, Milan, 2014. p. 2379.
+1.	TR Jao, **HP Do**, KS Nayak. “In Vivo Performance of Myocardial Background Suppression.” _International Society for Magnetic Resonance in Medicine 21st Scientific Meeting_, Salt Lake City, 2013. p. 4525.
+1.	**HP Do**, RM Lebel, KS Nayak. “Magnetization Transfer Effects in Wideband Steady State Free Precession (wb-SSFP).” _International Society for Magnetic Resonance in Medicine 19th Scientific Meeting_, Montreal, 2011. p. 2787.
+1.	**HP Do**, HL Dao, NT Do, TV Ngo, AV Nguyen. “On the New Type of Optical Bio-sensor from DNA-wrapped Carbon Nanotubes.” _Vietnam National Conference on Theoretical Physics 32nd Scientific Meeting_, Nha Trang, Vietnam, 2007 (**Oral Presentation**).
 
 Theses and Disertation
 ------
