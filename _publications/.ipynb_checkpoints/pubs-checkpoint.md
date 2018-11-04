@@ -1,12 +1,12 @@
 ---
-permalink: /publication/pubs.html
+permalink: /publications/
 title: "Publications"
 excerpt: "HungDo's Publications"
 collection: publications
 author_profile: true
 redirect_from: 
   - /publications/
-  - /publications/pubs.html
+  - /pubs.html
 ---
 
 Journal Papers
