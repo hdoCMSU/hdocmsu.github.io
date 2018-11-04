@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -24,7 +24,7 @@ Education
 
 Biography
 ------
-Hung Do is an MR Physicist in the Clinical Collaborations Department, [Canon Medical Systems USA, Inc.](https://us.medical.canon/). He received a B.S. with Honors in Theoretial Physics from the [Hanoi National University of Education (HNUE)](http://english.hnue.edu.vn/) in 2007, a Postgraduate Diploma with Honors in Condendsed Matter Physics from the [Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/) in 2009, a M.S. in Electrical Engineering and a Ph.D. in Physics from the [University of Southern California (USC)](https://www.usc.edu/) in 2014 and 2016, respectively.
+Hung Do is an MR Physicist in the Clinical Collaborations Department, [Canon Medical Systems USA, Inc.](https://us.medical.canon/). He received a B.S. with Honors in Theoretial Physics from the [Hanoi National University of Education (HNUE)](http://english.hnue.edu.vn/) in 2007, a Postgraduate Diploma with Honors in Condensed Matter Physics from the [Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/) in 2009, a M.S. in Electrical Engineering and a Ph.D. in Physics from the [University of Southern California (USC)](https://www.usc.edu/) in 2014 and 2016, respectively.
 
 
 Research Interests
