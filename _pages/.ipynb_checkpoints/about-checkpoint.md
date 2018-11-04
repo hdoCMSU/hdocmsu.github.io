@@ -1,8 +1,11 @@
 ---
-layout: archive
-title: "About me"
 permalink: /
+title: ""
+excerpt: "About me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Hung Phi Do, PhD, MSEE
