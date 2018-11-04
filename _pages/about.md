@@ -20,6 +20,7 @@ Education
 + 2017: Doctoral Degree, Physics, [University of Southern California](https://www.usc.edu/)
 + 2014: Master's Degree, Electrical Engineering, [University of Southern California](https://www.usc.edu/)
 + 2009: Postgraduate Diploma's Degree, Condensed Matter Physics, [International Centre for Theoretical Physics](https://www.ictp.it/)
++ 2008: Master's Study, Theoretical Physics, [Institute of Physics](https://www.iop.vast.ac.vn/index.php?slang=en)
 + 2007: Bachelor's Degree, Theoretical Physics, [Hanoi National Univerisity of Education](http://english.hnue.edu.vn/)
 
 Biography
@@ -30,9 +31,11 @@ Hung Do is an MR Physicist in the Clinical Collaborations Department, [Canon Med
 Research Interests
 ------
 + Data Science, Machine Learning, Deep Learning, and Artificial Intelligence
-+ Novel MRI Pulse Sequence Designs
-+ Novel MRI Reconstruction Algorithms
-+ MR Physics and Quantitative MRI Methods
++ Novel MRI Pulse Sequence Design and Reconstruction
++ MR Physics and Quantitative MRI
++ MRI Artifact Correction
++ Mathematical Modeling and Numerical Simulation
++ Signal and Image Processing
 + Translational and Clinical Research
 
 Contact Information
