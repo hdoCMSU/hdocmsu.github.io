@@ -1,12 +1,9 @@
 ---
-permalink: /publications/
+permalink: /publications/pubs.html
 title: "Publications"
-excerpt: "HungDo's Publications"
-collection: publications
-author_profile: true
 redirect_from: 
   - /publications/
-  - /pubs.html
+  - /publications/pubs.html
 ---
 
 Journal Papers
@@ -14,3 +11,4 @@ Journal Papers
 1. blah1
 1. blah2
 1. blah3
+1. blah4
