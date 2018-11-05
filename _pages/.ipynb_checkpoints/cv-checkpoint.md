@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume - Under Construction!"
+title: "Resume - Coming Soon!"
 permalink: /cv/
 author_profile: true
 redirect_from:
