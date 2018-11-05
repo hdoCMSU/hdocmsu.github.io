@@ -10,7 +10,7 @@ Journal Papers
 ------
 1.	**HP Do**, AJ Yoon, and KS Nayak. “dnoiseNET: Deep Convolutional Neural Network for Image Denoising.” _Journal of Cardiovascular Magnetic Resonance_ (**Under Preparation**)  
 1.	**HP Do**, Y Guo, AJ Yoon, and KS Nayak. “Deep Convolutional Neural Network for Segmentation of Myocardial ASL Short-Axis Data: Accuracy, Uncertainty, and Adaptability.” _Journal of Cardiovascular Magnetic Resonance_ (**Under Preparation**)  
-1.	**HP Do**, V Ramanan, X Qui, J Barry, GA Wright, NR Ghugre, KS Nayak. “Non-Contrast Assessment of Microvascular Integrity using Arterial Spin Labeled CMR in a Porcine Model of Acute Myocardial Infarction.” _Journal of Cardiovascular Magnetic Resonance_ 20:45, July 2018. [JRNL](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-018-0468-5)
+1.	**HP Do**, V Ramanan, X Qui, J Barry, GA Wright, NR Ghugre, KS Nayak. “Non-Contrast Assessment of Microvascular Integrity using Arterial Spin Labeled CMR in a Porcine Model of Acute Myocardial Infarction.” _Journal of Cardiovascular Magnetic Resonance_ 20:45, July 2018. [JRNL](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-018-0468-5){:target="_blank"}
 1.	AJ Yoon, **HP Do**, S Cen, MW Fong, F Saremi, ML Barr, KS Nayak. “Assessment of Regional Myocardial Blood Flow and Myocardial Perfusion Reserve by Adenosine-stress Myocardial ASL Perfusion Imaging.” _Journal of Magnetic Resonance Imaging_ 46(2):413-420, 2017. [JRNL](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.25604)  
 1.	**HP Do**, AJ Yoon, MW Fong, F Saremi, ML Barr, KS Nayak. “Double-gated Myocardial Arterial Spin Labeled Perfusion Imaging is Robust to Heart Rate Variation.” _Magnetic Resonance in Medicine_ 77(5):1975-1980, 2017. [JRNL](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.26282)
 1.	**HP Do**, TR Jao, KS Nayak. “Myocardial Arterial Spin Labeling Perfusion Imaging with Improved Sensitivity.” _Journal of Cardiovascular Magnetic Resonance_ 16:15, January 2014. [JRNL](https://jcmr-online.biomedcentral.com/articles/10.1186/1532-429X-16-15)
@@ -18,7 +18,7 @@ Journal Papers
 
 Patents
 ------
-1. **HP Do**, TR Jao, KS Nayak. “Synchronized Multi-Module Pulsed Arterial Spin Labeled Magnetic Resonance Imaging.” _International Patent Application_ No. WO/2016/089895, June 2016 [LINK](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2016089895); _US Patent Application_ No. US20170258409A1, Sep 2016. [LINK](https://patents.google.com/patent/US20170258409A1/en)
+1. **HP Do**, TR Jao, KS Nayak. “Synchronized Multi-Module Pulsed Arterial Spin Labeled Magnetic Resonance Imaging.” _International Patent Application_ No. WO/2016/089895, June 2016 [LINK](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2016089895); _US Patent Application_ No. US20170258409A1, Sep 2017. [LINK](https://patents.google.com/patent/US20170258409A1/en)
 
 Peer-reviewed Conference Papers
 ------
