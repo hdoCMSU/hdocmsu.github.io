@@ -17,11 +17,11 @@ Department of Clinical Collaborations
 
 Education
 ------
-+ 2017: Doctoral Degree, Physics, [University of Southern California](https://www.usc.edu/){:target="_blank"}
-+ 2014: Master's Degree, Electrical Engineering, [University of Southern California](https://www.usc.edu/){:target="_blank"}
-+ 2009: Postgraduate Diploma's Degree, Condensed Matter Physics, [International Centre for Theoretical Physics](https://www.ictp.it/){:target="_blank"}
-+ 2008: Master's Study, Theoretical Physics, [Hanoi Institute of Physics](https://www.iop.vast.ac.vn/index.php?slang=en){:target="_blank"}
-+ 2007: Bachelor's Degree, Theoretical Physics, [Hanoi National Univerisity of Education](http://english.hnue.edu.vn/){:target="_blank"}
++ 2017: Doctoral Degree, Physics, [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}
++ 2014: Master's Degree, Electrical Engineering, [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}
++ 2009: Postgraduate Diploma's Degree, Condensed Matter Physics, [The Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"}
++ 2008: Master's Study, Theoretical Physics, [Hanoi Institute of Physics (IOP)](https://www.iop.vast.ac.vn/index.php?slang=en){:target="_blank"}
++ 2007: Bachelor's Degree, Theoretical Physics, [Hanoi National Univerisity of Education (HNUE)](http://english.hnue.edu.vn/){:target="_blank"}
 
 Biography
 ------

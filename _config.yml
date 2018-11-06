@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to HungDo's Homepage"
+title                    : "Welcome!"
 title_separator          : "-"
 name                     : "Hung P. Do, PhD, MSEE" #&name "Hung Do"
 description              : "HungDo's Homepage" #&description "Hung Do's personal homepage"
