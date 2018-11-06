@@ -10,12 +10,6 @@
  *
 */
 
-@import "{{ site.theme }}";
-
-.inner {
-  max-width: 100%;
-}
-
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
