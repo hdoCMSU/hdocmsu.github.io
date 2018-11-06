@@ -1,13 +1,11 @@
 ---
-layout: archive
-title: "Resume - Coming Soon!"
 permalink: /cv/
+title: "Resume - Coming Soon!"
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv/
+  - /cv/cv.html
 ---
-
-{% include base_path %}
 
 Education
 ------
@@ -34,15 +32,15 @@ Skills
 
 Publications
 ------
-  <ul>{% for post in site.publications %}
+<ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% endfor %}</ul>
   
 Talks
 ------
-  <ul>{% for post in site.talks %}
+<ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+{% endfor %}</ul>
   
 Teaching
 ------
