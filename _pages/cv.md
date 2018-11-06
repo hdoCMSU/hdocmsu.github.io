@@ -2,7 +2,6 @@
 permalink: /cv/
 title: "Resume"
 author_profile: true
-classes: wide
 toc: true
 toc_label: "My Resume"
 toc_icon: "cog"
