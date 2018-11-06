@@ -4,6 +4,8 @@ title: "Resume"
 author_profile: true
 classes: wide
 toc: true
+toc_label: "My Resume"
+toc_icon: "cog"
 redirect_from:
   - /resume
   - /cv.html
