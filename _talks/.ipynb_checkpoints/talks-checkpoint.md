@@ -1,7 +1,7 @@
 ---
-classes: wide
 permalink: /talks/
 title: "Oral Presentations"
+classes: wide
 redirect_from: 
   - /talks/
   - /talks/talks.html

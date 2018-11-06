@@ -1,9 +1,8 @@
 ---
-classes: wide
-permalink: /
+permalink: /hdo/
 title: ""
-excerpt: "About me"
 author_profile: true
+classes: wide
 redirect_from: 
   - /about/
   - /about.html

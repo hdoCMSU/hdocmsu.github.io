@@ -1,7 +1,8 @@
 ---
-classes: wide
 permalink: /pubs/
 title: "Publications List"
+author_profile: true
+classes: wide
 redirect_from: 
   - /publications/
   - /publications/pubs.html

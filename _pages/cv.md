@@ -1,8 +1,8 @@
 ---
-classes: wide
 permalink: /cv/
 title: "Resume"
 author_profile: true
+classes: wide
 redirect_from:
   - /resume
   - /cv.html
