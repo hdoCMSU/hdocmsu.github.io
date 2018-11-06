@@ -10,7 +10,6 @@ redirect_from:
 
 Hung Phi Do, PhD, MSEE
 ------
-
 Manager Clinical Collaborations  
 Department of Clinical Collaborations  
 [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"}
@@ -40,7 +39,6 @@ Research Interests
 
 Contact Information
 ------
-
 Clinical Collaborations Department  
 Canon Medical Systems USA, Inc.  
 2441 Michelle Drive, Tustin, CA  92780  
