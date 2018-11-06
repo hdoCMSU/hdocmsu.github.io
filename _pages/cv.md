@@ -1,9 +1,9 @@
 ---
-permalink: /
+permalink: /cv/
 title: "Resume - Coming Soon!"
 author_profile: true
 redirect_from:
-  - /cv/
+  - /resume
   - /cv.html
 ---
 
