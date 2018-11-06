@@ -1,5 +1,5 @@
 ---
-permalink: /hdo/
+permalink: /
 title: ""
 author_profile: true
 classes: wide
