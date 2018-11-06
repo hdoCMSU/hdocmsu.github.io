@@ -1,7 +1,6 @@
 ---
 permalink: /cv/
-title: "Resume - Coming Soon!"
-author_profile: true
+title: "Resume"
 redirect_from:
   - /resume
   - /cv.html
