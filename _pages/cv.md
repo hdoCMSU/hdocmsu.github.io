@@ -43,16 +43,6 @@ Certificates
 * [5-Course Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/8J8WWCZTK8L5){:target="_blank"}, a 5-course specialization by deeplearning.ai on Coursera. Specialization Certificate earned on March 11, 2018. (Prof. Andrew Ng, Stanford University)
 * [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/57W43BTTTCH3){:target="_blank"}, by Stanford University on Coursera. Completed on May 2017. (Prof. Andrew Ng, Stanford University)
 
-
-Skills
-------
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ------
 <ul>{% for post in site.publications %}
@@ -94,7 +84,6 @@ Service and leadership
   * May 2012 – May 2017: MRI scanner’s safety supervisor: Supervised junior lab members to operate MRI scanners efficiently
   * Jan 2012 - May 2014: MREL group meeting manager
 
-
 Professional Affiliations
 ------
 * ISMRM: [The International Society for Magnetic Resonance in Medicine](https://www.ismrm.org/){:target="_blank"}
@@ -104,4 +93,3 @@ Professional Affiliations
 References
 ------
 References available upon request
-
