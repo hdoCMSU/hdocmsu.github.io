@@ -1,10 +1,10 @@
 ---
-permalink: /cv/
+permalink: /
 title: "Resume - Coming Soon!"
 author_profile: true
 redirect_from:
   - /cv/
-  - /cv/cv.html
+  - /cv.html
 ---
 
 Education
