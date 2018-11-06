@@ -2,7 +2,7 @@
 permalink: /cv/
 title: "Resume"
 author_profile: true
-layout: archive
+layout: single
 classes: wide
 redirect_from:
   - /resume
