@@ -6,7 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-classes                  : wide
 locale                   : "en-US"
 title                    : "Welcome to HungDo's Homepage"
 title_separator          : "-"

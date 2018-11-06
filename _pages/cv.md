@@ -1,4 +1,5 @@
 ---
+classes: wide
 permalink: /cv/
 title: "Resume"
 author_profile: true

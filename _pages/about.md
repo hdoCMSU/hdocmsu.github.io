@@ -1,4 +1,5 @@
 ---
+classes: wide
 permalink: /
 title: ""
 excerpt: "About me"

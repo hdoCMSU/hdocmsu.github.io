@@ -1,5 +1,6 @@
 ---
-permalink: /talks/talks.html
+classes: wide
+permalink: /talks/
 title: "Oral Presentations"
 redirect_from: 
   - /talks/

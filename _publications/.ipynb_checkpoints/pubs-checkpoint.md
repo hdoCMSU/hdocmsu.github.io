@@ -1,5 +1,6 @@
 ---
-permalink: /publications/pubs.html
+classes: wide
+permalink: /pubs/
 title: "Publications List"
 redirect_from: 
   - /publications/
