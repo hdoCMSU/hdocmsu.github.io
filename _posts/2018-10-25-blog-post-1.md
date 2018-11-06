@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-This is a sample blog post.
+This is a sample blog post 1.
 
 Introduction
 ------
