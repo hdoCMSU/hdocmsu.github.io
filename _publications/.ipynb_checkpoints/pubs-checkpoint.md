@@ -25,7 +25,7 @@ Patents
 Peer-reviewed Conference Papers
 ------
 1.	A Javed, NG Lee, **HP Do**, N Ghugre, G Wright, E Wong, and KS Nayak. “Optimization of Steady-Pulsed Arterial Spin Labeling for Myocardial Perfusion Imaging.” _International Society for Magnetic Resonance in Medicine 27th Scientific Meeting_, Montreal, May 2019. (**Submitted**)
-1.	**HP Do**, AJ Yoon, and KS Nayak. “dnoiseNET: Deep Convolutional Neural Network for Image Denoising.” _The ISMRM & SCMR Co-Provided Workshop on the Emerging Role of Machine Learning in Cardiovascular Magnetic Resonance Imaging_, Seattle, February 2019 (**Oral Presentation**)  
+1.	**HP Do**, AJ Yoon, and KS Nayak. “dnoiseNET: Deep Convolutional Neural Network for Image Denoising.” _The ISMRM & SCMR Co-Provided Workshop on the Emerging Role of Machine Learning in Cardiovascular Magnetic Resonance Imaging_, Seattle, February 2019 (**Accepted - Oral Presentation**)  
 1.	**HP Do**, Y Guo, AJ Yoon, and KS Nayak. “Deep Convolutional Neural Network for Segmentation of Myocardial ASL Short-Axis Data: Accuracy, Uncertainty, and Adaptability.” _The ISMRM Workshop on Machine Learning, Part II_, Washington D.C., October 2018 (**Oral Presentation**)
 1.	GR Matcuk, **HP Do**, JS Gross, BK Fields, M Franco, B Desai. “Compressed Sensing Magnetic Resonance Imaging (CS-MRI) for Accelerated Knee MR Imaging.” _The Radiological Society of North America (RSNA) Education Exhibits_, Chicago, November 2018.  
 1.	**HP Do**, TR Jao, V Ramanan, G Wright, NR Ghugre, and KS Nayak. “Optimal Flip Angle for Steady Pulsed Arterial Spin Labeled CMR.” _The ISMRM/SCMR Co-provided Workshop on CMR in Ischemic Heart Disease_, Barcelona, Spain, February 2018.
