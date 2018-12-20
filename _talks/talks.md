@@ -18,6 +18,6 @@ Conference Oral Presentations
 
 Teaching and Training Presentations
 ------
-1. "An introduction to fast MRI technqiues: Efficient sampling trajectory design, parallel imaging, compressensing, and simultaneous multi-slice imaging." Irvine, CA, Nov 2017.
-1. "k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI." Irvine, CA, Nov 2018. 
-1. "An Introduction to Deep Learning and its applications in Healthcare.", Cleveland, OH, Dec 2018.
+1. **HP Do**: "An Introduction to Deep Learning and its applications in Healthcare.", Cleveland, OH, Dec 2018.
+1. **HP Do**: "k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI." Irvine, CA, Nov 2018.
+1. **HP Do**: "An introduction to fast MRI technqiues: Efficient sampling trajectory design, parallel imaging, compressed sensing, and simultaneous multislice imaging." Irvine, CA, Nov 2017.
