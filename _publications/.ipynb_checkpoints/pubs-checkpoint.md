@@ -22,6 +22,10 @@ Patents
 ------
 1. **HP Do**, TR Jao, KS Nayak. “Synchronized Multi-Module Pulsed Arterial Spin Labeled Magnetic Resonance Imaging.” _International Patent Application_ No. WO/2016/089895, June 2016 [**URL**](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2016089895){:target="_blank"}; _US Patent Application_ No. US20170258409A1, Sep 2017. [**URL**](https://patents.google.com/patent/US20170258409A1/en){:target="_blank"}
 
+Whitepapers
+------
+1. **HP Do**: "k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI." Canon Medical Systems USA, Inc., Jan 2019. (**Under Preparation**)
+
 Peer-reviewed Conference Papers
 ------
 1.	A Javed, NG Lee, **HP Do**, N Ghugre, G Wright, E Wong, and KS Nayak. “Optimization of Steady-Pulsed Arterial Spin Labeling for Myocardial Perfusion Imaging.” _International Society for Magnetic Resonance in Medicine 27th Scientific Meeting_, Montreal, May 2019. (**Submitted**)
