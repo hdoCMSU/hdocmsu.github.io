@@ -78,7 +78,7 @@ Service and leadership
 * Journal Reviewer
   * Aug 2017 – present: Reviewer for the [Journal of Cardiovascular Magnetic Resonance (JCMR)](https://jcmr-online.biomedcentral.com/){:target="_blank"}, the official publication of the [Society for Cardiovascular Magnetic Resonance (SCMR)](https://scmr.org/){:target="_blank"}
   * Jun 2018 – present: Reviewer for the [Journal of Computer Assisted Tomography (JCAT)](https://journals.lww.com/jcat/Pages/default.aspx){:target="_blank"}
-
+  * Nov 2018: Abstract reviewer for the [2019 ISMRM Annual Meeting in Montreal](https://www.ismrm.org/19m/){:target="_blank"}, the [International Society for Magnetic Resonance in Medicine (ISMRM)](https://www.ismrm.org/){:target="_blank"}
 
 * Lab Service at the [Magnetic Resonance Engineering Laboratory (MREL)](https://mrel.usc.edu/){:target="_blank"}
   * Sep 2015 – May 2017: EPIC’s supervisor: Supervised junior lab members in learning and using EPIC, an GE MRI pulse sequence programming language
