@@ -19,8 +19,8 @@ Education
 Work experience
 ------
 * 10/2017-present: Manager Clinical Collaborations, [Canon Medical Systems USA, Inc. (CMSU)](https://us.medical.canon/){:target="_blank"}
-* 05/2017-09/2017: Postdoctoral Research Associate, [Magnetic Resonance Engineering Laboratory (MREL)](https://mrel.usc.edu/){:target="_blank"}
-* 05/2010-05/2017: Graduate Research Assistant, [Magnetic Resonance Engineering Laboratory (MREL)](https://mrel.usc.edu/){:target="_blank"}
+* 05/2017-09/2017: Postdoctoral Research Associate, [Magnetic Resonance Engineering Laboratory (MREL)](https://mrel.usc.edu/){:target="_blank"}, [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}
+* 05/2010-05/2017: Graduate Research Assistant, [Magnetic Resonance Engineering Laboratory (MREL)](https://mrel.usc.edu/){:target="_blank"}, [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}
 * 05/2009-09/2009: Postgraduate Diploma Research, [The Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"}
 * 05/2007 - 08/2008: Researcher, [Hanoi Institute of Physics (IOP)](https://www.iop.vast.ac.vn/index.php?slang=en){:target="_blank"}
 * 05/2006 - 05/2007: Undergraduate Research, [Hanoi Institute of Physics (IOP)](https://www.iop.vast.ac.vn/index.php?slang=en){:target="_blank"}
@@ -56,31 +56,36 @@ Talks
     {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
   
-Teaching
+Teaching and Training
 ------
+Training experience at the [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"}, Tustin, CA
+
+* **Training Oral Lectures**
+    * **HP Do**: "An Introduction to Deep Learning and its applications in Healthcare.", Cleveland, OH, Dec 2018.
+    * **HP Do**: "k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI." Irvine, CA, Nov 2018.
+    * **HP Do**: "An introduction to fast MRI techniques: Efficient sampling trajectory design, parallel imaging, compressed sensing, and simultaneous multislice imaging." Irvine, CA, Nov 2017.
+
 Teaching experience at the [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}, Los Angeles, CA
-* Office Hour
+* **Office Hour**
   * Holding 1-hour/week office hour every semester associated with laboratory or grading duty
 
-
-* Laboratory Instructor
+* **Laboratory Instructor**
   * PHYS135B: Physics for the Life Sciences (Summer 2016, Spring 2015, and Spring 2011)
   * PHYS151: Fundamentals of Physics: Mechanics and Thermodynamics (Fall 2010)
 
-
-* Grader
+* **Grader**
   * PHYS135A: Physics for the Life Sciences (Spring 2016, Summer & Fall 2010)
   * PHYS135B: Physics for the Life Sciences (Spring 2016)
   * PHYS151: Fundamentals of Physics: Mechanics and Thermodynamics (Spring 2015 & 2010)
 
-Service and leadership
+Service
 ------
-* Journal Reviewer
+* **Journal Reviewer**
   * Aug 2017 – present: Reviewer for the [Journal of Cardiovascular Magnetic Resonance (JCMR)](https://jcmr-online.biomedcentral.com/){:target="_blank"}, the official publication of the [Society for Cardiovascular Magnetic Resonance (SCMR)](https://scmr.org/){:target="_blank"}
   * Jun 2018 – present: Reviewer for the [Journal of Computer Assisted Tomography (JCAT)](https://journals.lww.com/jcat/Pages/default.aspx){:target="_blank"}
   * Nov 2018: Abstract reviewer for the [2019 ISMRM Annual Meeting in Montreal](https://www.ismrm.org/19m/){:target="_blank"}, the [International Society for Magnetic Resonance in Medicine (ISMRM)](https://www.ismrm.org/){:target="_blank"}
 
-* Lab Service at the [Magnetic Resonance Engineering Laboratory (MREL)](https://mrel.usc.edu/){:target="_blank"}
+* **Lab Service at the [Magnetic Resonance Engineering Laboratory (MREL)](https://mrel.usc.edu/){:target="_blank"}**
   * Sep 2015 – May 2017: EPIC’s supervisor: Supervised junior lab members in learning and using EPIC, an GE MRI pulse sequence programming language
   * May 2012 – May 2017: MRI scanner’s safety supervisor: Supervised junior lab members to operate MRI scanners efficiently
   * Jan 2012 - May 2014: MREL group meeting manager
@@ -93,14 +98,14 @@ Professional Affiliations
 
 Courses
 ------
-* Online continuous learning
+* **Online and continuous learning**
     * Neural Networks for Machine Learning, by University of Toronto on Coursera. Completed on August 2018. (Prof. Geoffrey E. Hinton, University of Toronto)
     * Deep Learning, a 5-course specialization by deeplearning.ai on Coursera. Specialization Certificate earned on March 11, 2018. (Prof. Andrew Ng, Stanford University)
     * Machine Learning, by Stanford University on Coursera. Completed on May 2017. (Prof. Andrew Ng, Stanford University)
     * Deep Learning using TensorFlow, by Google on Udacity. Completed online on June 2017. (Dr. Vincent Vanhaucke, Google Brain)
     * CS231n: Convolution Neural Networks for Visual Recognition, by Stanford University. Completed online in 2017-18. (Prof. Fei-Fei Li, Justin Johnson, and Serena Yeung, Stanford University)
 
-* Selected Courses taken at the University of Southern California, Los Angeles, CA
+* **Selected Courses taken at the University of Southern California, Los Angeles, CA**
     * EE599: Vector Space Methods for Signal Processing (Prof. Justin Haldar, USC)
     * EE599: Computational Differential Geometry for Engineer (Prof. Anand Joshi, USC)
     * EE691: Advanced Magnetic Resonance Imaging (Prof. Krishna Nayak, USC)
@@ -112,7 +117,7 @@ Courses
     * PHYS558 A & B: Quantum Mechanics (Prof. Dennis Nemeschansky)
     * BME525: Advanced Biomedical Imaging (Prof. Manbir Singh, USC)
     
-* Selected courses taken at the Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy
+* **Selected courses taken at the Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy**
     * CMP-SB: Symmetries, Electron Bands and Phonons (Prof. Sandro Scandolo, ICTP)
     * CMP-SM: Statistical Mechanics (Dr. Mauro Sellitto, ICTP)
     * CMP-MT: Mathematical Techniques (Dr. Fabio Franchini, ICTP)
@@ -124,14 +129,14 @@ Courses
     * CMP-MN: Magnetism (Prof. Mikhail Kiselev, ICTP)
     * CMP-BIO: Biological Physics (Prof. Michele Vendruscolo, University of Cambridge, UK)
     
-* Selected courses taken at Hanoi Institute of Physics, Vietnam Academy of Science and Technology, Hanoi, Vietnam
+* **Selected courses taken at Hanoi Institute of Physics, Vietnam Academy of Science and Technology, Hanoi, Vietnam**
     * Mathematics for Physics
     * Statistical Physics
     * Informatics for Physics
     * Electrodynamics
     * Quantum Physics
     
-* Selected courses taken at Hanoi National University of Education, Hanoi, Vietnam
+* **Selected courses taken at Hanoi National University of Education, Hanoi, Vietnam**
     * Mathematical Analysis I, II, and III
     * Linear Algebra and Analytic Geometry
     * Thermology
