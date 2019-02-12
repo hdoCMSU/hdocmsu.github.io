@@ -10,20 +10,20 @@ redirect_from:
 
 Education
 ------
-+ 2017: Doctoral Degree, Physics, [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}
-+ 2014: Master's Degree, Electrical Engineering, [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}
-+ 2009: Postgraduate Diploma's Degree, Condensed Matter Physics, [The Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"}
-+ 2008: Master's Study, Theoretical Physics, [Hanoi Institute of Physics (IOP)](https://www.iop.vast.ac.vn/index.php?slang=en){:target="_blank"}
-+ 2007: Bachelor's Degree, Theoretical Physics, [Hanoi National Univerisity of Education (HNUE)](http://english.hnue.edu.vn/){:target="_blank"}
++ 2017: Doctoral Degree, Physics, [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}, Los Angeles, California
++ 2014: Master's Degree, Electrical Engineering, [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}, Los Angeles, California
++ 2009: Postgraduate Diploma's Degree, Condensed Matter Physics, [The Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"}, Trieste, Italy
++ 2008: Master's Study, Theoretical Physics, [Hanoi Institute of Physics (IOP)](https://www.iop.vast.ac.vn/index.php?slang=en){:target="_blank"}, Hanoi, Vietnam
++ 2007: Bachelor's Degree, Theoretical Physics, [Hanoi National Univerisity of Education (HNUE)](http://english.hnue.edu.vn/){:target="_blank"}, Hanoi, Vietnam
 
 Work experience
 ------
-* 10/2017-present: Manager Clinical Collaborations, [Canon Medical Systems USA, Inc. (CMSU)](https://us.medical.canon/){:target="_blank"}
-* 05/2017-09/2017: Postdoctoral Research Associate, [Magnetic Resonance Engineering Laboratory (MREL)](https://mrel.usc.edu/){:target="_blank"}, [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}
-* 05/2010-05/2017: Graduate Research Assistant, [Magnetic Resonance Engineering Laboratory (MREL)](https://mrel.usc.edu/){:target="_blank"}, [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}
-* 05/2009-09/2009: Postgraduate Diploma Research, [The Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"}
-* 05/2007 - 08/2008: Researcher, [Hanoi Institute of Physics (IOP)](https://www.iop.vast.ac.vn/index.php?slang=en){:target="_blank"}
-* 05/2006 - 05/2007: Undergraduate Research, [Hanoi Institute of Physics (IOP)](https://www.iop.vast.ac.vn/index.php?slang=en){:target="_blank"}
+* 10/2017-present: Manager Clinical Collaborations, [Canon Medical Systems USA, Inc. (CMSU)](https://us.medical.canon/){:target="_blank"}, Tustin, California
+* 05/2017-09/2017: Postdoctoral Research Associate, [Magnetic Resonance Engineering Laboratory (MREL)](https://mrel.usc.edu/){:target="_blank"}, [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}, Los Angeles, California
+* 05/2010-05/2017: Graduate Research Assistant, [Magnetic Resonance Engineering Laboratory (MREL)](https://mrel.usc.edu/){:target="_blank"}, [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}, Los Angeles, California
+* 05/2009-09/2009: Postgraduate Diploma Research, [The Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"}, Trieste, Italy
+* 05/2007 - 08/2008: Researcher, [Hanoi Institute of Physics (IOP)](https://www.iop.vast.ac.vn/index.php?slang=en){:target="_blank"}, Hanoi, Vietnam
+* 05/2006 - 05/2007: Undergraduate Research, [Hanoi Institute of Physics (IOP)](https://www.iop.vast.ac.vn/index.php?slang=en){:target="_blank"}, Hanoi, Vietnam
 
 Honors and Awards
 ------
@@ -58,14 +58,14 @@ Talks
   
 Teaching and Training
 ------
-Training experience at the [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"}, Tustin, CA
+Training experience at the [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"}, Tustin, California
 
 * **Training Oral Lectures**
     * **HP Do**: "An Introduction to Deep Learning and its applications in Healthcare.", Cleveland, OH, Dec 2018.
     * **HP Do**: "k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI." Irvine, CA, Nov 2018.
     * **HP Do**: "An introduction to fast MRI techniques: Efficient sampling trajectory design, parallel imaging, compressed sensing, and simultaneous multislice imaging." Irvine, CA, Nov 2017.
 
-Teaching experience at the [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}, Los Angeles, CA
+Teaching experience at the [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}, Los Angeles, California
 * **Office Hour**
   * Holding 1-hour/week office hour every semester associated with laboratory or grading duty
 
