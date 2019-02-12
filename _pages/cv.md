@@ -98,14 +98,14 @@ Professional Affiliations
 
 Courses
 ------
-* **Online and continuous learning**
+* **Selected online (MOOC) courses**
     * Neural Networks for Machine Learning, by University of Toronto on Coursera. Completed on August 2018. (Prof. Geoffrey E. Hinton, University of Toronto)
     * Deep Learning, a 5-course specialization by deeplearning.ai on Coursera. Specialization Certificate earned on March 11, 2018. (Prof. Andrew Ng, Stanford University)
     * Machine Learning, by Stanford University on Coursera. Completed on May 2017. (Prof. Andrew Ng, Stanford University)
     * Deep Learning using TensorFlow, by Google on Udacity. Completed online on June 2017. (Dr. Vincent Vanhaucke, Google Brain)
     * CS231n: Convolution Neural Networks for Visual Recognition, by Stanford University. Completed online in 2017-18. (Prof. Fei-Fei Li, Justin Johnson, and Serena Yeung, Stanford University)
 
-* **Selected Courses taken at the University of Southern California, Los Angeles, CA**
+* **Selected courses taken at the University of Southern California, Los Angeles, CA**
     * EE599: Vector Space Methods for Signal Processing (Prof. Justin Haldar, USC)
     * EE599: Computational Differential Geometry for Engineer (Prof. Anand Joshi, USC)
     * EE691: Advanced Magnetic Resonance Imaging (Prof. Krishna Nayak, USC)
@@ -161,6 +161,7 @@ Courses
     * Applied Informatics
     * Advanced Magnetism and Superconductivity
     * Semiconductor Physics
+    * Practical Physics Teacher Training I and II
 
 References
 ------
