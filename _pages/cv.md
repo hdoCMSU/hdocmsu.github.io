@@ -105,7 +105,7 @@ Courses
     * Deep Learning using TensorFlow, by Google on Udacity. Completed online on June 2017. (Dr. Vincent Vanhaucke, Google Brain)
     * CS231n: Convolution Neural Networks for Visual Recognition, by Stanford University. Completed online in 2017-18. (Prof. Fei-Fei Li, Justin Johnson, and Serena Yeung, Stanford University)
 
-* **Selected courses taken at the University of Southern California, Los Angeles, CA**
+* **Selected courses taken at the University of Southern California (USC), Los Angeles, CA**
     * EE599: Vector Space Methods for Signal Processing (Prof. Justin Haldar, USC)
     * EE599: Computational Differential Geometry for Engineer (Prof. Anand Joshi, USC)
     * EE691: Advanced Magnetic Resonance Imaging (Prof. Krishna Nayak, USC)
@@ -114,7 +114,7 @@ Courses
     * RAD228: Magnetic Resonance Imaging Programming Topics. Audited in 2015-16. (Prof. Brian Hargreaves, Stanford University)
     * PHYS516: Methods of Computational Physics (Prof. Aiichiro Nakano, USC)
     * PHYS508 A & B: Advanced Electricity and Magnetism (Prof. Robin Shakeshaft, USC)
-    * PHYS558 A & B: Quantum Mechanics (Prof. Dennis Nemeschansky)
+    * PHYS558 A & B: Quantum Mechanics (Prof. Dennis Nemeschansky, USC)
     * BME525: Advanced Biomedical Imaging (Prof. Manbir Singh, USC)
     
 * **Selected courses taken at the Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy**
