@@ -61,9 +61,9 @@ Teaching and Training
 Training experience at the [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"}, Tustin, California
 
 * **Training Oral Lectures**
-    * **HP Do**: "An Introduction to Deep Learning and its applications in Healthcare.", Cleveland, OH, Dec 2018.
-    * **HP Do**: "k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI." Irvine, CA, Nov 2018.
-    * **HP Do**: "An introduction to fast MRI techniques: Efficient sampling trajectory design, parallel imaging, compressed sensing, and simultaneous multislice imaging." Irvine, CA, Nov 2017.
+    1. **HP Do**: _"An Introduction to Deep Learning and its applications in Healthcare."_ Clinical Scientists and Application Specialists Meeting and Training, Canon Medical Research USA, Inc., Cleveland, OH, Dec 2018.
+    1. **HP Do**: _"k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI."_ Zone Business Managers (ZBM) Annual Training, Canon Medical Systems USA, Inc.,Irvine, CA, Nov 2018.
+    1. **HP Do**: _"An introduction to fast MRI techniques: Efficient sampling trajectory design, parallel imaging, compressed sensing, and simultaneous multislice imaging."_ Zone Business Managers (ZBM) Annual Training, Canon Medical Systems USA, Inc., Irvine, CA, Nov 2017.
 
 Teaching experience at the [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}, Los Angeles, California
 * **Office Hour**
