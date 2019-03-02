@@ -11,6 +11,7 @@ redirect_from:
 Hung Phi Do, PhD, MSEE
 ------
 Manager Medical Affairs - Clinical Scientist
+
 [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"}, Tustin, CA 92780
 
 Education
