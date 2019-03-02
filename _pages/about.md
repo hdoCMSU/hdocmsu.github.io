@@ -10,9 +10,8 @@ redirect_from:
 
 Hung Phi Do, PhD, MSEE
 ------
-Manager Medical Affairs - Clinical Scientist  
-[Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"}
-Tustin, CA 92780
+Manager Medical Affairs - Clinical Scientist
+[Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"}, Tustin, CA 92780
 
 Education
 ------
@@ -23,7 +22,7 @@ Education
 
 Biography
 ------
-Hung Do is an MR Physicist at [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"}. He received a B.S. with Honors in Theoretical Physics from the [Hanoi National University of Education (HNUE)](http://english.hnue.edu.vn/){:target="_blank"} in 2007, a Postgraduate Diploma with Honors in Condensed Matter Physics from the [Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"} in 2009, a M.S. in Electrical Engineering and a Ph.D. in Physics both from the [Magnetic Resonance Engineering Laboratory (MREL)](https://mrel.usc.edu/){:target="_blank"}, [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"} in 2014 and 2016, respectively.
+Hung Do is an MR Physicist at [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"}. He received a B.S. with Honors in Theoretical Physics from the [Hanoi National University of Education (HNUE)](http://english.hnue.edu.vn/){:target="_blank"} in 2007, a Postgraduate Diploma with Honors in Condensed Matter Physics from the [Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"} in 2009, a M.S. in Electrical Engineering and a Ph.D. in Physics both from the [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"} in 2014 and 2016, respectively.
 
 
 Research Interests
