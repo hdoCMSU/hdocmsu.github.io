@@ -78,6 +78,9 @@ Teaching experience at the [University of Southern California (USC)](https://www
   * PHYS135B: Physics for the Life Sciences (Spring 2016)
   * PHYS151: Fundamentals of Physics: Mechanics and Thermodynamics (Spring 2015 & 2010)
 
+Teaching experience at the [Hanoi Institute of Physics (IOP)](https://www.iop.vast.ac.vn/index.php?slang=en){:target="_blank"}, Hanoi, Vietnam
+* Practical Teacher Training at Nam Truc High School (Spring 2006 & 2007) 
+
 Service
 ------
 * **Journal Reviewer**

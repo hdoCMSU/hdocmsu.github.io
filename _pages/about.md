@@ -10,21 +10,20 @@ redirect_from:
 
 Hung Phi Do, PhD, MSEE
 ------
-Manager Clinical Collaborations  
-Department of Clinical Collaborations  
+Manager Medical Affairs - Clinical Scientist  
 [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"}
+Tustin, CA 92780
 
 Education
 ------
 + 2017: Doctoral Degree, Physics, [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}
 + 2014: Master's Degree, Electrical Engineering, [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}
 + 2009: Postgraduate Diploma's Degree, Condensed Matter Physics, [The Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"}
-+ 2008: Master's Study, Theoretical Physics, [Hanoi Institute of Physics (IOP)](https://www.iop.vast.ac.vn/index.php?slang=en){:target="_blank"}
 + 2007: Bachelor's Degree, Theoretical Physics, [Hanoi National Univerisity of Education (HNUE)](http://english.hnue.edu.vn/){:target="_blank"}
 
 Biography
 ------
-Hung Do is an MR Physicist in the Clinical Collaborations Department, [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"}. He received a B.S. with Honors in Theoretical Physics from the [Hanoi National University of Education (HNUE)](http://english.hnue.edu.vn/){:target="_blank"} in 2007, a Postgraduate Diploma with Honors in Condensed Matter Physics from the [Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"} in 2009, a M.S. in Electrical Engineering and a Ph.D. in Physics from the [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"} in 2014 and 2016, respectively.
+Hung Do is an MR Physicist at [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"}. He received a B.S. with Honors in Theoretical Physics from the [Hanoi National University of Education (HNUE)](http://english.hnue.edu.vn/){:target="_blank"} in 2007, a Postgraduate Diploma with Honors in Condensed Matter Physics from the [Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"} in 2009, a M.S. in Electrical Engineering and a Ph.D. in Physics both from the [Magnetic Resonance Engineering Laboratory (MREL)](https://mrel.usc.edu/){:target="_blank"}, [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"} in 2014 and 2016, respectively.
 
 
 Research Interests
