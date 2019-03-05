@@ -78,7 +78,7 @@ Teaching experience at the [University of Southern California (USC)](https://www
   * PHYS135B: Physics for the Life Sciences (Spring 2016)
   * PHYS151: Fundamentals of Physics: Mechanics and Thermodynamics (Spring 2015 & 2010)
 
-Teaching experience at the [Hanoi Institute of Physics (IOP)](https://www.iop.vast.ac.vn/index.php?slang=en){:target="_blank"}, Hanoi, Vietnam
+Teaching experience at the  [Hanoi National Univerisity of Education (HNUE)](http://english.hnue.edu.vn/){:target="_blank"}, Hanoi, Vietnam
 * Practical Teacher Training at Nam Truc High School (Spring 2006 & 2007) 
 
 Service
@@ -102,7 +102,7 @@ Professional Affiliations
 Courses
 ------
 * **Selected online (MOOC) courses**
-    * AI for Everyon, by deeplearning.ai on Coursera. Completed on March 2019. (Prof. Andrew Ng, Stanford University)
+    * AI for Everyone, by deeplearning.ai on Coursera. Completed on March 2019. (Prof. Andrew Ng, Stanford University)
     * Neural Networks for Machine Learning, by University of Toronto on Coursera. Completed on August 2018. (Prof. Geoffrey E. Hinton, University of Toronto)
     * Deep Learning, a 5-course specialization by deeplearning.ai on Coursera. Specialization Certificate earned on March 11, 2018. (Prof. Andrew Ng, Stanford University)
     * Machine Learning, by Stanford University on Coursera. Completed on May 2017. (Prof. Andrew Ng, Stanford University)
