@@ -102,6 +102,7 @@ Professional Affiliations
 Courses
 ------
 * **Selected online (MOOC) courses**
+    * AI for Everyon, by deeplearning.ai on Coursera. Completed on March 2019. (Prof. Andrew Ng, Stanford University)
     * Neural Networks for Machine Learning, by University of Toronto on Coursera. Completed on August 2018. (Prof. Geoffrey E. Hinton, University of Toronto)
     * Deep Learning, a 5-course specialization by deeplearning.ai on Coursera. Specialization Certificate earned on March 11, 2018. (Prof. Andrew Ng, Stanford University)
     * Machine Learning, by Stanford University on Coursera. Completed on May 2017. (Prof. Andrew Ng, Stanford University)
