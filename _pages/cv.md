@@ -60,10 +60,9 @@ Teaching and Training Experience
 ------
 **Training experience at the [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"},** Tustin, California
 
-* Training Lectures
-    1. **HP Do**: _"An Introduction to Deep Learning and its applications in Healthcare."_ Clinical Scientists and Application Specialists Meeting and Training, Canon Medical Research USA, Inc., Cleveland, OH, Dec 2018.
-    1. **HP Do**: _"k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI."_ Zone Business Managers (ZBM) Annual Training, Canon Medical Systems USA, Inc.,Irvine, CA, Nov 2018.
-    1. **HP Do**: _"An introduction to fast MRI techniques: Efficient sampling trajectory design, parallel imaging, compressed sensing, and simultaneous multislice imaging."_ Zone Business Managers (ZBM) Annual Training, Canon Medical Systems USA, Inc., Irvine, CA, Nov 2017.
+  1. **HP Do**: _"An Introduction to Deep Learning and its applications in Healthcare."_ Clinical Scientists and Application Specialists Meeting and Training, Canon Medical Research USA, Inc., Cleveland, OH, Dec 2018. (**Talk**)
+  1. **HP Do**: _"k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI."_ Zone Business Managers (ZBM) Annual Training, Canon Medical Systems USA, Inc.,Irvine, CA, Nov 2018. (**Talk**)
+  1. **HP Do**: _"An introduction to fast MRI techniques: Efficient sampling trajectory design, parallel imaging, compressed sensing, and simultaneous multislice imaging."_ Zone Business Managers (ZBM) Annual Training, Canon Medical Systems USA, Inc., Irvine, CA, Nov 2017. (**Talk**)
 
 **Teaching experience at the University of Southern California [(USC)](https://www.usc.edu/){:target="_blank"},** Los Angeles, California
 * Office Hour
@@ -83,12 +82,12 @@ Teaching and Training Experience
 
 Service
 ------
-* **Journal Reviewer**
+**Journal Reviewer**
   * Aug 2017 – present: Reviewer for the Journal of Cardiovascular Magnetic Resonance [(JCMR)](https://jcmr-online.biomedcentral.com/){:target="_blank"}, the official publication of the Society for Cardiovascular Magnetic Resonance [(SCMR)](https://scmr.org/){:target="_blank"}
   * Jun 2018 – present: Reviewer for the Journal of Computer Assisted Tomography [(JCAT)](https://journals.lww.com/jcat/Pages/default.aspx){:target="_blank"}
   * Nov 2018: Abstract reviewer for the [2019 ISMRM](https://www.ismrm.org/19m/){:target="_blank"} Annual Scientific Meeting in Montreal, Canada, the International Society for Magnetic Resonance in Medicine [(ISMRM)](https://www.ismrm.org/){:target="_blank"}
 
-* **Lab Service at the Magnetic Resonance Engineering Laboratory [(MREL)](https://mrel.usc.edu/){:target="_blank"}**
+**Lab Service at the Magnetic Resonance Engineering Laboratory [(MREL)](https://mrel.usc.edu/){:target="_blank"}**
   * Sep 2015 – May 2017: EPIC’s supervisor: Supervised junior lab members in learning and using EPIC, an GE MRI pulse sequence programming language
   * May 2012 – May 2017: MRI scanner’s safety supervisor: Supervised junior lab members to operate MRI scanners efficiently
   * Jan 2012 - May 2014: MREL group meeting manager
