@@ -15,10 +15,10 @@ Manager Medical Affairs - Clinical Scientist <br>
 
 Education
 ------
-+ 2017: Doctoral Degree, Physics, University of Southern California [(USC)](https://www.usc.edu/){:target="_blank"}
-+ 2014: Master's Degree, Electrical Engineering, University of Southern California [(USC)](https://www.usc.edu/){:target="_blank"}
-+ 2009: Postgraduate Diploma's Degree, Condensed Matter Physics, The Abdus Salam International Centre for Theoretical Physics [(ICTP)](https://www.ictp.it/){:target="_blank"}
-+ 2007: Bachelor's Degree, Theoretical Physics, Hanoi National Univerisity of Education [(HNUE)](http://english.hnue.edu.vn/){:target="_blank"}
++ 2017: Doctoral Degree, Physics, University of Southern California [(USC)](https://www.usc.edu/){:target="_blank"}, Los Angeles, California
++ 2014: Master's Degree, Electrical Engineering, University of Southern California [(USC)](https://www.usc.edu/){:target="_blank"}, Los Angeles, California
++ 2009: Postgraduate Diploma's Degree, Condensed Matter Physics, the Abdus Salam International Centre for Theoretical Physics [(ICTP)](https://www.ictp.it/){:target="_blank"}, Trieste, Italy
++ 2007: Bachelor's Degree, Theoretical Physics, Hanoi National Univerisity of Education [(HNUE)](http://english.hnue.edu.vn/){:target="_blank"}, Hanoi, Vietnam
 
 Biography
 ------
