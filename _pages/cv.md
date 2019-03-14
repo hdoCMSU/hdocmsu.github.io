@@ -56,29 +56,29 @@ Talks
     {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
   
-Teaching and Training
+Teaching and Training Experience
 ------
-Training experience at the [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"}, Tustin, California
+**Training experience at the [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"},** Tustin, California
 
-* **Training Oral Lectures**
+* Training Lectures
     1. **HP Do**: _"An Introduction to Deep Learning and its applications in Healthcare."_ Clinical Scientists and Application Specialists Meeting and Training, Canon Medical Research USA, Inc., Cleveland, OH, Dec 2018.
     1. **HP Do**: _"k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI."_ Zone Business Managers (ZBM) Annual Training, Canon Medical Systems USA, Inc.,Irvine, CA, Nov 2018.
     1. **HP Do**: _"An introduction to fast MRI techniques: Efficient sampling trajectory design, parallel imaging, compressed sensing, and simultaneous multislice imaging."_ Zone Business Managers (ZBM) Annual Training, Canon Medical Systems USA, Inc., Irvine, CA, Nov 2017.
 
-Teaching experience at the [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}, Los Angeles, California
-* **Office Hour**
+**Teaching experience at the University of Southern California [(USC)](https://www.usc.edu/){:target="_blank"},** Los Angeles, California
+* Office Hour
   * Holding 1-hour/week office hour every semester associated with laboratory or grading duty
 
-* **Laboratory Instructor**
+* Laboratory Instructor
   * PHYS135B: Physics for the Life Sciences (Summer 2016, Spring 2015, and Spring 2011)
   * PHYS151: Fundamentals of Physics: Mechanics and Thermodynamics (Fall 2010)
 
-* **Grader**
+* Grader
   * PHYS135A: Physics for the Life Sciences (Spring 2016, Summer & Fall 2010)
   * PHYS135B: Physics for the Life Sciences (Spring 2016)
   * PHYS151: Fundamentals of Physics: Mechanics and Thermodynamics (Spring 2015 & 2010)
 
-Teaching experience at the Hanoi National Univerisity of Education [(HNUE)](http://english.hnue.edu.vn/){:target="_blank"}, Hanoi, Vietnam
+**Teaching experience at the Hanoi National Univerisity of Education [(HNUE)](http://english.hnue.edu.vn/){:target="_blank"},** Hanoi, Vietnam
 * Practical Teacher Training at Nam Truc High School (Spring 2006 & 2007) 
 
 Service
