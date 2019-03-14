@@ -15,14 +15,14 @@ Manager Medical Affairs - Clinical Scientist <br>
 
 Education
 ------
-+ 2017: Doctoral Degree, Physics, [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}
-+ 2014: Master's Degree, Electrical Engineering, [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}
-+ 2009: Postgraduate Diploma's Degree, Condensed Matter Physics, [The Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"}
-+ 2007: Bachelor's Degree, Theoretical Physics, [Hanoi National Univerisity of Education (HNUE)](http://english.hnue.edu.vn/){:target="_blank"}
++ 2017: Doctoral Degree, Physics, University of Southern California [(USC)](https://www.usc.edu/){:target="_blank"}
++ 2014: Master's Degree, Electrical Engineering, University of Southern California [(USC)](https://www.usc.edu/){:target="_blank"}
++ 2009: Postgraduate Diploma's Degree, Condensed Matter Physics, The Abdus Salam International Centre for Theoretical Physics [(ICTP)](https://www.ictp.it/){:target="_blank"}
++ 2007: Bachelor's Degree, Theoretical Physics, Hanoi National Univerisity of Education [(HNUE)](http://english.hnue.edu.vn/){:target="_blank"}
 
 Biography
 ------
-Hung Do is an MR Physicist at [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"}. He received a B.S. with Honors in Theoretical Physics from the [Hanoi National University of Education (HNUE)](http://english.hnue.edu.vn/){:target="_blank"} in 2007, a Postgraduate Diploma with Honors in Condensed Matter Physics from the [Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"} in 2009, a M.S. in Electrical Engineering and a Ph.D. in Physics both from the [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"} in 2014 and 2017, respectively.
+Hung Do is an MR Physicist at [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"}. He received a B.S. with Honors in Theoretical Physics from the Hanoi National University of Education [(HNUE)](http://english.hnue.edu.vn/){:target="_blank"} in 2007, a Postgraduate Diploma with Honors in Condensed Matter Physics from the Abdus Salam International Centre for Theoretical Physics [(ICTP)](https://www.ictp.it/){:target="_blank"} in 2009, a M.S. in Electrical Engineering and a Ph.D. in Physics both from the University of Southern California [(USC)](https://www.usc.edu/){:target="_blank"} in 2014 and 2017, respectively.
 
 
 Research Interests
