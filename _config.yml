@@ -84,8 +84,8 @@ google_analytics	 : UA-128649878-1
 author:
   name             : "Hung Do, PhD, MSEE"
   avatar           : "/hdo/HungDO.jpg"
-  bio              : "MR Physicist"
-  location         : "Canon Medical, Tustin, CA"
+  bio              : "MRI Physicist"
+  location         : "Canon Medical, CA"
   employer         : 
   linkedin         : "hdocmsu"
   twitter          : "hdocmsu"
@@ -259,14 +259,12 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 gems:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
