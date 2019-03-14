@@ -37,7 +37,6 @@ Research Interests
 
 Contact Information
 ------
-Clinical Collaborations Department  
 Canon Medical Systems USA, Inc.  
 2441 Michelle Drive, Tustin, CA  92780  
 Phone: (714)-669-7369  
