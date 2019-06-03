@@ -16,8 +16,7 @@ _Journal of Cardiovascular Magnetic Resonance_ (**Under Preparation**)
   
 1. **HP Do**, Y Guo, AJ Yoon, and KS Nayak. <br>
 “Accuracy, Uncertainty, and Adaptability of Automatic Myocardial ASL Segmentation using Deep CNN.” <br> 
-_Magnetic Resonance in Medicine_ (**Submitted - Under Review**). <br>
-[**arXiv:1812.03974**](https://arxiv.org/abs/1812.03974){:target="_blank"}. _Computer Vision and Pattern Recognition (cs.CV)_. (Submitted on 10 Dec 2018)
+_Magnetic Resonance in Medicine_ (**Submitted - Under Review**). [**arXiv:1812.03974**](https://arxiv.org/abs/1812.03974){:target="_blank"}. _Computer Vision and Pattern Recognition (cs.CV)_. (Submitted on 10 Dec 2018)
 
 Published Journal Papers
 ------
@@ -43,7 +42,9 @@ _Communications in Physics_ 18:151-156, 2008. [**URL**](https://inis.iaea.org/se
 
 Patents
 ------
-1. **HP Do**, TR Jao, KS Nayak. “Synchronized Multi-Module Pulsed Arterial Spin Labeled Magnetic Resonance Imaging.” _International Patent Application_ No. WO/2016/089895, June 2016 [**URL**](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2016089895){:target="_blank"}; _US Patent Application_ No. US20170258409A1, Sep 2017. [**URL**](https://patents.google.com/patent/US20170258409A1/en){:target="_blank"}
+1. **HP Do**, TR Jao, KS Nayak. <br> 
+“Synchronized Multi-Module Pulsed Arterial Spin Labeled Magnetic Resonance Imaging.” <br>
+_International Patent Application_ No. WO/2016/089895, June 2016 [**URL**](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2016089895){:target="_blank"}; _US Patent Application_ No. US20170258409A1, Sep 2017. [**URL**](https://patents.google.com/patent/US20170258409A1/en){:target="_blank"}
 
 Whitepapers
 ------
@@ -51,9 +52,19 @@ Whitepapers
 
 Peer-reviewed Conference Papers
 ------
-1.	A Javed, NG Lee, **HP Do**, N Ghugre, G Wright, E Wong, and KS Nayak. “Optimization of Steady-Pulsed Arterial Spin Labeling for Myocardial Perfusion Imaging.” _International Society for Magnetic Resonance in Medicine 27th Scientific Meeting_, Montreal, May 2019. (**Accepted**)
-1.	**HP Do**, AJ Yoon, and KS Nayak. “dnoiseNET: Deep Convolutional Neural Network for Image Denoising.” _The ISMRM & SCMR Co-Provided Workshop on the Emerging Role of Machine Learning in Cardiovascular Magnetic Resonance Imaging_, Seattle, February 2019 (**Oral Presentation**)  
-1.	**HP Do**, Y Guo, AJ Yoon, and KS Nayak. “Deep Convolutional Neural Network for Segmentation of Myocardial ASL Short-Axis Data: Accuracy, Uncertainty, and Adaptability.” _The ISMRM Workshop on Machine Learning, Part II_, Washington D.C., October 2018 (**Oral Presentation**)
+1. A Javed, NG Lee, **HP Do**, N Ghugre, G Wright, E Wong, and KS Nayak. <br> 
+“Optimization of Steady-Pulsed Arterial Spin Labeling for Myocardial Perfusion Imaging.” <br>
+_International Society for Magnetic Resonance in Medicine 27th Scientific Meeting_, Montreal, May 2019.
+
+1. **HP Do**, AJ Yoon, and KS Nayak. <br> 
+“dnoiseNET: Deep Convolutional Neural Network for Image Denoising.” <br>
+_The ISMRM & SCMR Co-Provided Workshop on the Emerging Role of Machine Learning in Cardiovascular Magnetic Resonance Imaging_, Seattle, February 2019. <br>
+(**Oral Presentation**)  
+
+1. **HP Do**, Y Guo, AJ Yoon, and KS Nayak. <br>
+“Deep Convolutional Neural Network for Segmentation of Myocardial ASL Short-Axis Data: Accuracy, Uncertainty, and Adaptability.” <br>
+_The ISMRM Workshop on Machine Learning, Part II_, Washington D.C., October 2018. <br>
+(**Oral Presentation**)
 1.	GR Matcuk, **HP Do**, JS Gross, BK Fields, M Franco, B Desai. “Compressed Sensing Magnetic Resonance Imaging (CS-MRI) for Accelerated Knee MR Imaging.” _The Radiological Society of North America (RSNA) Education Exhibits_, Chicago, November 2018.  
 1.	**HP Do**, TR Jao, V Ramanan, G Wright, NR Ghugre, and KS Nayak. “Optimal Flip Angle for Steady Pulsed Arterial Spin Labeled CMR.” _The ISMRM/SCMR Co-provided Workshop on CMR in Ischemic Heart Disease_, Barcelona, Spain, February 2018.
 1.	A Javed, **HP Do**, AJ Yoon, KS Nayak, and P Garg. “Coronary Endothelial Function Testing using Continuous Cardiac ASL-CMR.” _The ISMRM/SCMR Co-provided Workshop on CMR in Ischemic Heart Disease_, Barcelona, Spain, February 2018.
