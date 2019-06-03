@@ -1,6 +1,6 @@
 ---
 permalink: /pubs/
-title: "Publications List"
+title: "Publications"
 author_profile: true
 classes: wide
 redirect_from: 

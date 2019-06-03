@@ -1,13 +1,13 @@
 ---
 permalink: /courses/
-title: "Talks"
+title: "Selected Courses"
 classes: wide
 redirect_from: 
   - /courses/
   - /courses/courses.html
 ---
 
-Selected online (MOOC) courses
+Selected MOOC courses for continuous learning 
 ------
   * AI for Everyone, by deeplearning.ai on Coursera. Completed on March 2019. (Prof. Andrew Ng, Stanford University)
   * Neural Networks for Machine Learning, by University of Toronto on Coursera. Completed on August 2018. (Prof. Geoffrey E. Hinton, University of Toronto)

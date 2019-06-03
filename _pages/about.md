@@ -28,6 +28,7 @@ Hung Do is an MRI Physicist at [Canon Medical Systems USA, Inc.](https://us.medi
 Research Interests
 ------
 + Data Science, Machine Learning, Deep Learning, and Artificial Intelligence
++ Probabilistic Programming and Bayesian Methods
 + Novel MRI Pulse Sequence Design and Reconstruction
 + MR Physics and Quantitative MRI
 + MRI Artifact Correction
