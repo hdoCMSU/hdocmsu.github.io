@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /resume/
 title: "Resume"
 author_profile: true
 classes: wide
