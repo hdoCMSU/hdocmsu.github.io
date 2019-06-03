@@ -121,10 +121,13 @@ Peer-reviewed Conference and Workshop Papers
 Theses and Disertation
 ------
 1. Doctor of Philosophy Dissertation (May 2017).<br/> 
-_“Improved Myocardial Arterial Spin Labeled Perfusion Imaging.”_ Under supervision of [Prof. Krishna Nayak](http://sipi.usc.edu/~knayak/){:target="_blank"} at the [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}, Los Angeles, CA.
+_“Improved Myocardial Arterial Spin Labeled Perfusion Imaging.”_<br/>
+Under supervision of [Prof. Krishna Nayak](http://sipi.usc.edu/~knayak/){:target="_blank"} at the [University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}, Los Angeles, CA.
 
 1. Postgraduate Diploma Thesis (August 2009).<br/>
-_“Searching for the Crystal Structure of Solid CO2: A New Algorithm and Some Results based on Density Functional Theory.”_ Under supervision of [Prof. Sandro Scandolo](https://www.ictp.it/phonebook/person?id=2464){:target="_blank"} at the [Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"}, Trieste, Italy.
+_“Searching for the Crystal Structure of Solid CO2: A New Algorithm and Some Results based on Density Functional Theory.”_<br/>
+Under supervision of [Prof. Sandro Scandolo](https://www.ictp.it/phonebook/person?id=2464){:target="_blank"} at the [Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"}, Trieste, Italy.
 
 1. Bachelor of Science Thesis (May 2007).<br/>
-_“A New Type of Bio-Sensor based on Single-Walled Carbon Nanotube and DNA.”_ Under supervision of Prof. Dr. Sc. Viet Ai Nguyen at the Hanoi Institute of Physics, Vietnam Academy of Science and Technology, Hanoi, Vietnam.
+_“A New Type of Bio-Sensor based on Single-Walled Carbon Nanotube and DNA.”_ <br/>
+Under supervision of Prof. Dr. Sc. Viet Ai Nguyen at the Hanoi Institute of Physics, Vietnam Academy of Science and Technology, Hanoi, Vietnam.
