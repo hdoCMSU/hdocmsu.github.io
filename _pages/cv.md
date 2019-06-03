@@ -13,7 +13,7 @@ Education
 + 2017: Doctoral Degree, Physics, University of Southern California [(USC)](https://www.usc.edu/){:target="_blank"}, Los Angeles, California
 + 2014: Master's Degree, Electrical Engineering, University of Southern California [(USC)](https://www.usc.edu/){:target="_blank"}, Los Angeles, California
 + 2009: Postgraduate Diploma's Degree, Condensed Matter Physics, the Abdus Salam International Centre for Theoretical Physics [(ICTP)](https://www.ictp.it/){:target="_blank"}, Trieste, Italy
-+ 2008: Master's Study, Theoretical Physics, Hanoi Institute of Physics [(IOP)](https://www.iop.vast.ac.vn/index.php?slang=en){:target="_blank"}, Hanoi, Vietnam
++ 2008: Master's Study (completed 1 of 2 years program then moved to Italy), Theoretical Physics, Hanoi Institute of Physics [(IOP)](https://www.iop.vast.ac.vn/index.php?slang=en){:target="_blank"}, Hanoi, Vietnam
 + 2007: Bachelor's Degree, Theoretical Physics, Hanoi National Univerisity of Education [(HNUE)](http://english.hnue.edu.vn/){:target="_blank"}, Hanoi, Vietnam
 
 Work experience
@@ -97,6 +97,12 @@ Professional Affiliations
 * [ISMRM](https://www.ismrm.org/){:target="_blank"}: The International Society for Magnetic Resonance in Medicine
 * [SCMR](https://scmr.org/){:target="_blank"}: The Society for Cardiovascular Magnetic Resonance
 * [RSNA](https://www.rsna.org/){:target="_blank"}: The Radiological Society of North America
+
+Courses
+------
+<ul>{% for post in site.courses %}
+    {% include archive-single-course-cv.html %}
+{% endfor %}</ul>
 
 Courses
 ------
