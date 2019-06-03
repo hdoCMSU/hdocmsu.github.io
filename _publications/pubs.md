@@ -22,7 +22,7 @@ Published Journal Papers
 ------
 1. **HP Do**, V Ramanan, X Qui, J Barry, GA Wright, NR Ghugre, KS Nayak. <br> 
 “Non-Contrast Assessment of Microvascular Integrity using Arterial Spin Labeled CMR in a Porcine Model of Acute Myocardial Infarction.” <br>
-_Journal of Cardiovascular Magnetic Resonance_ 20:45, July 2018. [**JRNL**](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-018-0468-5){:target="_blank"}
+_Journal of Cardiovascular Magnetic Resonance_ 20:45, July 2018. [**JRNL**](https://jcmr-online.biomedcentral.com/articles/10.1186/s12968-018-0468-5){:target="_blank"} [**PDF**](https://jcmr-online.biomedcentral.com/track/pdf/10.1186/s12968-018-0468-5){:target="_blank"}
 
 1. AJ Yoon, **HP Do**, S Cen, MW Fong, F Saremi, ML Barr, KS Nayak. <br> 
 “Assessment of Regional Myocardial Blood Flow and Myocardial Perfusion Reserve by Adenosine-stress Myocardial ASL Perfusion Imaging.” <br> 
@@ -34,11 +34,11 @@ _Magnetic Resonance in Medicine_ 77(5):1975-1980, 2017. [**JRNL**](https://onlin
 
 1. **HP Do**, TR Jao, KS Nayak. <br> 
 “Myocardial Arterial Spin Labeling Perfusion Imaging with Improved Sensitivity.” <br> 
-_Journal of Cardiovascular Magnetic Resonance_ 16:15, January 2014. [**JRNL**](https://jcmr-online.biomedcentral.com/articles/10.1186/1532-429X-16-15){:target="_blank"}  
+_Journal of Cardiovascular Magnetic Resonance_ 16:15, January 2014. [**JRNL**](https://jcmr-online.biomedcentral.com/articles/10.1186/1532-429X-16-15){:target="_blank"} [**PDF**](https://jcmr-online.biomedcentral.com/track/pdf/10.1186/1532-429X-16-15){:target="_blank"}
 
 1. **HP Do**, HL Dao, NT Do, TV Ngo, AV Nguyen. <br> 
 “On the New Type of Optical Bio-sensor from DNA-wrapped Carbon Nanotubes.” <br> 
-_Communications in Physics_ 18:151-156, 2008. [**URL**](https://inis.iaea.org/search/searchsinglerecord.aspx?recordsFor=SingleRecord&RN=40073452){:target="_blank"} [**PDF**]({{ site.url }}/files/pubs/do_communications_in_physics2008.pdf){:target="_blank"}  
+_Communications in Physics_ 18:151-156, 2008. [**PDF**]({{ site.url }}/files/pubs/do_communications_in_physics2008.pdf){:target="_blank"}  
 
 Patents
 ------
