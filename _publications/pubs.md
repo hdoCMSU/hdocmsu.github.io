@@ -50,7 +50,7 @@ Whitepapers
 ------
 1. **HP Do**: "k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI." Canon Medical Systems USA, Inc., Jan 2019. (**Under Review**)
 
-Peer-reviewed Conference Papers
+Peer-reviewed Conference and Workshop Papers
 ------
 1. A Javed, NG Lee, **HP Do**, N Ghugre, G Wright, E Wong, and KS Nayak. <br> 
 “Optimization of Steady-Pulsed Arterial Spin Labeling for Myocardial Perfusion Imaging.” <br>
