@@ -8,15 +8,15 @@ redirect_from:
   - /publications/pubs.html
 ---
 
-Journal Papers in Preparation and under Review
+Submitted and Prepared Journal Manuscripts
 ------
 1. **HP Do**, AJ Yoon, and KS Nayak. <br>
 “dnoiseNET: Deep Convolutional Neural Network for Image Denoising.” <br> 
-_Journal of Cardiovascular Magnetic Resonance_ (**Under Preparation**)
+(**In Preparation**)
   
 1. **HP Do**, Y Guo, AJ Yoon, and KS Nayak. <br>
 “Accuracy, Uncertainty, and Adaptability of Automatic Myocardial ASL Segmentation using Deep CNN.” <br> 
-_Magnetic Resonance in Medicine_ (**Submitted - Under Review**). [**arXiv:1812.03974**](https://arxiv.org/abs/1812.03974){:target="_blank"}. _Computer Vision and Pattern Recognition (cs.CV)_. (Submitted on 10 Dec 2018)
+_Magnetic Resonance in Medicine_ (**Submitted 05/11/2019 - Under Review**). [**arXiv:1812.03974**](https://arxiv.org/abs/1812.03974){:target="_blank"}. _Computer Vision and Pattern Recognition (cs.CV)_.
 
 Published Journal Papers
 ------
