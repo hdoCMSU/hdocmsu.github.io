@@ -53,7 +53,7 @@ Publications
 Talks
 ------
 <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-cv.html %}
 {% endfor %}</ul>
   
 Teaching and Training Experience
@@ -101,7 +101,7 @@ Professional Affiliations
 Courses
 ------
 <ul>{% for post in site.courses %}
-    {% include archive-single-course-cv.html %}
+    {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
 Courses
