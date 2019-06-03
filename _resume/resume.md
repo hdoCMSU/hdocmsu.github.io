@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 redirect_from:
   - /resume/
-  - /resume.html
+  - /resume/resume.html
 ---
 
 Education
