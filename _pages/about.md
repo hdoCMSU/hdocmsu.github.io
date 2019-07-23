@@ -43,4 +43,3 @@ Canon Medical Systems USA, Inc.
 Phone: (714)-669-7369  
 Email: <hdo@us.medical.canon>   
 Homepage: [hdocmsu.github.io](https://hdocmsu.github.io)
-

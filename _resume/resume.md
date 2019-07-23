@@ -18,7 +18,7 @@ Education
 
 Work experience
 ------
-* 10/2017-present: Manager Clinical Collaborations, [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"}, Tustin, California
+* 10/2017-present: Manager Medical Affairs - Clinical Scientist, [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"}, Tustin, California
 * 05/2017-09/2017: Postdoctoral Research Associate, Magnetic Resonance Engineering Laboratory [(MREL)](https://mrel.usc.edu/){:target="_blank"}, University of Southern California [(USC)](https://www.usc.edu/){:target="_blank"}, Los Angeles, California
 * 05/2010-05/2017: Graduate Research Assistant, Magnetic Resonance Engineering Laboratory [(MREL)](https://mrel.usc.edu/){:target="_blank"}, University of Southern California [(USC)](https://www.usc.edu/){:target="_blank"}, Los Angeles, California
 * 05/2009-09/2009: Postgraduate Diploma Research, the Abdus Salam International Centre for Theoretical Physics [(ICTP)](https://www.ictp.it/){:target="_blank"}, Trieste, Italy
@@ -66,9 +66,9 @@ Teaching and Training Experience
 ------
 **Training experience at the [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"},** Tustin, California
 
-  1. **HP Do**: _"An Introduction to Deep Learning and its applications in Healthcare."_ Clinical Scientists and Application Specialists Meeting and Training, Canon Medical Research USA, Inc., Cleveland, OH, Dec 2018. (**Talk**)
-  1. **HP Do**: _"k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI."_ Zone Business Managers (ZBM) Annual Training, Canon Medical Systems USA, Inc.,Irvine, CA, Nov 2018. (**Talk**)
-  1. **HP Do**: _"An introduction to fast MRI techniques: Efficient sampling trajectory design, parallel imaging, compressed sensing, and simultaneous multislice imaging."_ Zone Business Managers (ZBM) Annual Training, Canon Medical Systems USA, Inc., Irvine, CA, Nov 2017. (**Talk**)
+  1. **HP Do**: _"An Introduction to Deep Learning and its applications in Healthcare."_ Clinical Scientists and Application Specialists Meeting and Training, Canon Medical Research USA, Inc., Cleveland, OH, Dec 2018. (**Oral Lecture**)
+  1. **HP Do**: _"k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI."_ Zone Business Managers (ZBM) Annual Training, Canon Medical Systems USA, Inc.,Irvine, CA, Nov 2018. (**Oral Lecture**)
+  1. **HP Do**: _"An introduction to fast MRI techniques: Efficient sampling trajectory design, parallel imaging, compressed sensing, and simultaneous multislice imaging."_ Zone Business Managers (ZBM) Annual Training, Canon Medical Systems USA, Inc., Irvine, CA, Nov 2017. (**Oral Lecture**)
 
 **Teaching experience at the University of Southern California [(USC)](https://www.usc.edu/){:target="_blank"},** Los Angeles, California
 * Office Hour
@@ -84,7 +84,7 @@ Teaching and Training Experience
   * PHYS151: Fundamentals of Physics: Mechanics and Thermodynamics (Spring 2015 & 2010)
 
 **Teaching experience at the Hanoi National Univerisity of Education [(HNUE)](http://english.hnue.edu.vn/){:target="_blank"},** Hanoi, Vietnam
-* Practical Teacher Training at Nam Truc High School (Spring 2006 & 2007) 
+* Practical Teacher Training at Nam Truc High School, Nam Dinh, Vietnam (Spring 2006 & 2007) 
 
 Service
 ------

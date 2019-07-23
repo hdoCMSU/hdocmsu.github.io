@@ -40,10 +40,15 @@ Patents
 
 Whitepapers
 ------
-1. **HP Do**: "k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI." Canon Medical Systems USA, Inc., Jan 2019. (**Under Review**)
+1. **HP Do**: "Deep Learning Reconstruction." Canon Medical Systems USA, Inc., November 2019. (**In Preparation**)
+1. **HP Do**: "k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI." Canon Medical Systems USA, Inc., August 2019. (**Printing**)
 
 Peer-reviewed Conference and Workshop Papers
 ------
+1. GR Matcuk, A Gholamrezanezhad, **HP Do**, M Franco, B Desai.<br/>
+“Ultrashort Echo Time (UTE) Imaging: Review of Technique and Musculoskeletal Applications with Examples of Utility in the Knee.” The Radiological Society of North America (RSNA) Education Exhibits. Chicago, November 2019. 
+(**Accepted**)
+
 1. A Javed, NG Lee, **HP Do**, N Ghugre, G Wright, E Wong, and KS Nayak.<br/>
 “Optimization of Steady-Pulsed Arterial Spin Labeling for Myocardial Perfusion Imaging.” _International Society for Magnetic Resonance in Medicine 27th Scientific Meeting_, Montreal, May 2019. p. 2210.
 
