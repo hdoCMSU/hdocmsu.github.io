@@ -40,7 +40,7 @@ Patents
 
 Whitepapers
 ------
-1. **HP Do**: "Deep Learning Reconstruction." Canon Medical Systems USA, Inc., November 2019. (**In Preparation**)
+1. **HP Do**: "AiCE Deep Learning Reconstruction." Canon Medical Systems USA, Inc., November 2019. (**In Preparation**)
 1. **HP Do**: "k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI." Canon Medical Systems USA, Inc., August 2019. (**Printing**)
 
 Peer-reviewed Conference and Workshop Papers
