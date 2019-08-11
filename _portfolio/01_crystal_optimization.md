@@ -1,6 +1,6 @@
 ---
 title: "Crystal Structure Search using a Novel Optimization Algorithm"
-date: 2020-01-01
+date: 1000-01-01
 excerpt: "This project aims to develop a novel optimization algorithm for crystal structure prediction.
 [**Figure**](https://hdocmsu.github.io/images/projects/crystal_optimization.png)
 
