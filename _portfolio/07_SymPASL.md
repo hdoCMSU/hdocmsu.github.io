@@ -5,7 +5,7 @@ excerpt: "[**Figure:**](https://hdocmsu.github.io/images/projects/SymPASL.png) T
 <br/>
 [**US Patent Application**](https://patents.google.com/patent/US20170258409A1/en)
 <br/>
-[**International Application**](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2016089895) 
+[**International Patent Application**](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2016089895) 
 <br/>
 [**ISMRM Abstract**](https://mrel.usc.edu/pdf/ISMRM2017/1878.html) 
 <br/>

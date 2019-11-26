@@ -10,7 +10,7 @@ redirect_from:
 Selected MOOC courses for continuous learning 
 ------
 * Advanced Bayesian Modelling with PyMC3, Audited online in May 2019, taught by Dr. Junpeng Lao (Data Scientist at Google)
-* Full Stack Deep Learning, Audited online in April 2029, taught by Prof. Pieter Abbeel (Professor at UC Berkeley, President & Chief Scientist at Covariant.AI), Dr. Sergey Karayev (Head of AI for STEM at Turnitin), and Dr. Josh Tobin (Research Scientist at Open AI)
+* Full Stack Deep Learning, Audited online in April 2019, taught by Prof. Pieter Abbeel (Professor at UC Berkeley, President & Chief Scientist at Covariant.AI), Dr. Sergey Karayev (Head of AI for STEM at Turnitin), and Dr. Josh Tobin (Research Scientist at Open AI)
 * AI for Everyone, by deeplearning.ai on Coursera. Completed on March 2019. (Prof. Andrew Ng, Stanford University)
 * Neural Networks for Machine Learning, by University of Toronto on Coursera. Completed on August 2018. (Prof. Geoffrey E. Hinton, University of Toronto)
 * Deep Learning, a 5-course specialization by deeplearning.ai on Coursera. Specialization Certificate earned on March 11, 2018. (Prof. Andrew Ng, Stanford University)
