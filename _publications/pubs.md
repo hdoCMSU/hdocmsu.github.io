@@ -8,7 +8,7 @@ redirect_from:
   - /publications/pubs.html
 ---
 
-Submitted and Prepared Journal Manuscripts
+Pre-print Manuscripts
 ------
 1. **HP Do**, AJ Yoon, and KS Nayak.<br/>
 “dnoiseNET: Deep Convolutional Neural Network for Image Denoising.” [**SLIDES**]({{ site.url }}/files/talks/2019-02-06-HungDo_dnoiseNET_web.pdf){:target="_blank"} (**In Preparation**)
