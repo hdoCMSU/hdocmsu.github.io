@@ -1,6 +1,6 @@
 ---
 title: "SymPASL: A Novel Arterial Spin Labeled Perfusion MRI Technique"
-date: 2019-09-02
+date: 2017-09-02
 excerpt: "[**Figure:**](https://hdocmsu.github.io/images/projects/SymPASL.png) The project aims to develop a novel non-contrast MRI-based perfusion imaging method. 
 <br/>
 [**US Patent Application**](https://patents.google.com/patent/US20170258409A1/en)
