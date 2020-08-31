@@ -35,10 +35,3 @@ Research Interests
 + Mathematical Modeling and Numerical Simulation
 + Signal and Image Processing
 + Translational and Clinical Research
-
-Contact Information
-------
-Canon Medical Systems USA, Inc.  
-2441 Michelle Drive, Tustin, CA  92780  
-Email: <hdo@us.medical.canon>   
-Homepage: [hdocmsu.github.io](https://hdocmsu.github.io)
