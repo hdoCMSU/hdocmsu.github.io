@@ -10,12 +10,12 @@ redirect_from:
 
 ### Project #1: [Advanced intelligent Clear-IQ Engine (AiCE) Deep Learning Reconstruction](https://us.medical.canon/products/magnetic-resonance/aice/){:target="_blank"}
 
-This project was performed at [Canon Medical System USA, Inc.](https://us.medical.canon/){:target="_blank"}
+This project was carried out at [Canon Medical System USA, Inc.](https://us.medical.canon/){:target="_blank"}
 
 
 ### Project #2: [Compressed SPEEDER (Compressed Sensing) MRI](https://us.medical.canon/products/magnetic-resonance/technology/compressed-speeder/){:target="_blank"}
 
-This project was performed at [Canon Medical System USA, Inc.](https://us.medical.canon/){:target="_blank"}
+This project was carried out at [Canon Medical System USA, Inc.](https://us.medical.canon/){:target="_blank"}
 
 
 ### Project #3: Crystal Structure Search using Constrained Optimization
