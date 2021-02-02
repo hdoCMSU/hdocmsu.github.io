@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-permalink: /projects/
+permalink: /portfolio/
 author_profile: true
 classes: wide
 redirect_from:
@@ -10,6 +10,7 @@ redirect_from:
 
 Crystal Structure Search using Constrained Optimization Algorithm
 ------
+
 <iframe src="/files/htmls/IctpThesis.html" width="672" height="400px">
 </iframe>
 
