@@ -1,6 +1,6 @@
 ---
 permalink: /pubs/
-title:
+title: "Publications"
 author_profile: true
 classes: wide
 redirect_from: 
@@ -36,13 +36,22 @@ Patents
 
 Whitepapers
 ------
-1. **HP Do**: "AiCE Deep Learning Reconstruction: Translating the Power of Deep Learning to MR Image Reconstruction" Canon Medical Systems USA, Inc., November 2019.
-1. **HP Do**: "k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI." Canon Medical Systems USA, Inc., August 2019.
+1. **HP Do**: “Advanced intelligent Clear-IQ Engine (AiCE) Deep Learning Reconstruction: Effectively Removes Noise while Maintaining MR Signal.” Canon Medical Systems USA, Inc., July 2020. [**PDF**](https://mfl.ssl.cdn.sdlmedia.com/637309925416001229SG.pdf){:target="_blank"}
+
+1. **HP Do**: "Advanced intelligent Clear-IQ Engine (AiCE) Deep Learning Reconstruction: Translating the Power of Deep Learning to MR Image Reconstruction" Canon Medical Systems USA, Inc., March 2020. [**PDF**](https://mfl.ssl.cdn.sdlmedia.com/637271900181629483SK.pdf){:target="_blank"}
+
+1. **HP Do**: "k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI." Canon Medical Systems USA, Inc., January 2019.
 
 Peer-reviewed Conference and Workshop Abstracts
 ------
+1. A Taguchi, T Ishimoto, **HP Do**, M Kadbi, K Shinoda. <br/>
+“Evaluation of the versatility of the Advanced intelligent Clear-IQ Engine (AiCE) in MR for various sites and contrast types.” _The 77th Annual Scientific Congress of the Japan Society of Radiological Technology (JSRT)_, Yokohama, Japan, April 2021
+
+1. EJ Kelly, **HP Do**, DM Berkeley, JK Furuyama. <br/> 
+“Clinical Image Quality Evaluation for Field Strength and Contrast Independence of Deep Learning Reconstruction.” _International Society for Magnetic Resonance in Medicine 28th Scientific Meeting_, Sydney, April 2020.
+
 1. GR Matcuk, A Gholamrezanezhad, **HP Do**, M Franco, B Desai.<br/>
-“Ultrashort Echo Time (UTE) Imaging: Review of Technique and Musculoskeletal Applications with Examples of Utility in the Knee.” The Radiological Society of North America (RSNA) Education Exhibits. Chicago, November 2019.
+“Ultrashort Echo Time (UTE) Imaging: Review of Technique and Musculoskeletal Applications with Examples of Utility in the Knee.” _The Radiological Society of North America (RSNA) Education Exhibits_, Chicago, November 2019.
 
 1. A Javed, NG Lee, **HP Do**, N Ghugre, G Wright, E Wong, and KS Nayak.<br/>
 “Optimization of Steady-Pulsed Arterial Spin Labeling for Myocardial Perfusion Imaging.” _International Society for Magnetic Resonance in Medicine 27th Scientific Meeting_, Montreal, May 2019. p. 2210.
