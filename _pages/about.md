@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "Hung P. Do, PhD, MSEE"
 author_profile: true
 classes: wide
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Hung Phi Do, PhD, MSEE
-------
 
 I'm a clinical scientist (Magnetic Resonance Imaging physicist) working to translate innovative imaging solutions (Deep Learning Reconstruction, Compressed Sensing, Ultra-short Echo Time imaging, Arterial Spin Labeling, etc.) to the clinical environment by designing and conducting hypothesis-driven and clinical-evaluation research studies and engaging in the FDA 510k application processes from planning to FDA Pre-Submission (Q-Sub) meeting to preparing and reviewing application materials to responding to FDA reviewers' questions. I have a track record of collaboration with radiologists, cardiologists, scientists, engineers, application specialists, MRI technicians, product managers, marketers, legal counselors, and regulatory affairs specialists.
 
