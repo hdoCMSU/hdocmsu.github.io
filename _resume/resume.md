@@ -13,7 +13,7 @@ Education
 + 2017: Doctoral Degree, Physics, University of Southern California [(USC)](https://www.usc.edu/){:target="_blank"}, Los Angeles, California
 + 2014: Master's Degree, Electrical Engineering, University of Southern California [(USC)](https://www.usc.edu/){:target="_blank"}, Los Angeles, California
 + 2009: Postgraduate Diploma's Degree, Condensed Matter Physics, the Abdus Salam International Centre for Theoretical Physics [(ICTP)](https://www.ictp.it/){:target="_blank"}, Trieste, Italy
-+ 2008: Master's Study (completed 1 of 2 years program then moved to Italy), Theoretical Physics, Hanoi Institute of Physics [(IOP)](https://www.iop.vast.ac.vn/index.php?slang=en){:target="_blank"}, Hanoi, Vietnam
++ 2008: Master's Study (completed 1 of 2-year Master of Science program), Theoretical Physics, Hanoi Institute of Physics [(IOP)](https://www.iop.vast.ac.vn/index.php?slang=en){:target="_blank"}, Hanoi, Vietnam
 + 2007: Bachelor's Degree, Theoretical Physics, Hanoi National Univerisity of Education [(HNUE)](http://english.hnue.edu.vn/){:target="_blank"}, Hanoi, Vietnam
 
 Work experience
@@ -40,8 +40,14 @@ Honors and Awards
 
 Certificates
 ------
+* [Data Science: Statistics and Machine Learning 5-course Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/59SX95VDRUQK){:target="_blank"}, by Johns Hopkins University on Coursera. Completed on January 2021. (Profs. Jeff Leek, Roger Peng, Brian Caffo, Johns Hopkins University)
+
+* [AI for Medicine 3-course Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/63Q826DGTWNB){:target="_blank"}, by deeplearning.ai on Coursera. Completed on September 2020. (Pranav Rajpurkar, PhD Candidate at Stanford University)
+
 * [Neural Networks for Machine Learning](https://www.coursera.org/account/accomplishments/certificate/4RGD4N2EFA6Y){:target="_blank"}, by University of Toronto on Coursera. Completed on August 2018. (Prof. Geoffrey E. Hinton, University of Toronto)
+
 * [5-Course Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/8J8WWCZTK8L5){:target="_blank"}, a 5-course specialization by deeplearning.ai on Coursera. Specialization Certificate earned on March 11, 2018. (Prof. Andrew Ng, Stanford University)
+
 * [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/57W43BTTTCH3){:target="_blank"}, by Stanford University on Coursera. Completed on May 2017. (Prof. Andrew Ng, Stanford University)
 
 List of Publications
@@ -67,7 +73,9 @@ Teaching and Training Experience
 **Training experience at the [Canon Medical Systems USA, Inc.](https://us.medical.canon/){:target="_blank"},** Tustin, California
 
   1. **HP Do**: _"An Introduction to Deep Learning and its applications in Healthcare."_ Clinical Scientists and Application Specialists Meeting and Training, Canon Medical Research USA, Inc., Cleveland, OH, Dec 2018. (**Oral Lecture**)
+
   1. **HP Do**: _"k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI."_ Zone Business Managers (ZBM) Annual Training, Canon Medical Systems USA, Inc.,Irvine, CA, Nov 2018. (**Oral Lecture**)
+
   1. **HP Do**: _"An introduction to fast MRI techniques: Efficient sampling trajectory design, parallel imaging, compressed sensing, and simultaneous multislice imaging."_ Zone Business Managers (ZBM) Annual Training, Canon Medical Systems USA, Inc., Irvine, CA, Nov 2017. (**Oral Lecture**)
 
 **Teaching experience at the University of Southern California [(USC)](https://www.usc.edu/){:target="_blank"},** Los Angeles, California
