@@ -1,5 +1,5 @@
 ---
-permalink: /portfolio/
+permalink: /projects/
 title: "Projects"
 author_profile: true
 classes: wide
