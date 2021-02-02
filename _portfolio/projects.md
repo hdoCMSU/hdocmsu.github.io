@@ -1,10 +1,11 @@
 ---
+permalink: /portfolio/
 title: "Projects"
 author_profile: true
 classes: wide
 redirect_from:
   - /portfolio/
-    - /portfolio.html
+    - /portfolio/projects.html
 ---
 
 Crystal Structure Search using Constrained Optimization Algorithm
