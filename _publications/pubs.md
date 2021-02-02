@@ -1,6 +1,6 @@
 ---
 permalink: /pubs/
-title: "Publications"
+title:
 author_profile: true
 classes: wide
 redirect_from: 
@@ -32,18 +32,17 @@ Journal Papers
 Patents
 ------
 1. **HP Do**, TR Jao, KS Nayak.<br/>
-“Synchronized Multi-Module Pulsed Arterial Spin Labeled Magnetic Resonance Imaging." _International Patent Application_ No. WO/2016/089895, June 2016 [**URL**](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2016089895){:target="_blank"}; _US Patent Application_ No. US20170258409A1, Sep 2017. [**URL**](https://patents.google.com/patent/US20170258409A1/en){:target="_blank"}
+“Synchronized Multi-Module Pulsed Arterial Spin Labeled Magnetic Resonance Imaging." _International Patent Application_ No. WO/2016/089895, June 2016 [**URL**](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2016089895){:target="_blank"} (**Pending**)
 
 Whitepapers
 ------
-1. **HP Do**: "AiCE Deep Learning Reconstruction: Translating the Power of Deep Learning to MR Image Reconstruction" Canon Medical Systems USA, Inc., November 2019. (**In Press**)
-1. **HP Do**: "k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI." Canon Medical Systems USA, Inc., August 2019. (**In Press**)
+1. **HP Do**: "AiCE Deep Learning Reconstruction: Translating the Power of Deep Learning to MR Image Reconstruction" Canon Medical Systems USA, Inc., November 2019.
+1. **HP Do**: "k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI." Canon Medical Systems USA, Inc., August 2019.
 
-Peer-reviewed Conference and Workshop Papers
+Peer-reviewed Conference and Workshop Abstracts
 ------
 1. GR Matcuk, A Gholamrezanezhad, **HP Do**, M Franco, B Desai.<br/>
-“Ultrashort Echo Time (UTE) Imaging: Review of Technique and Musculoskeletal Applications with Examples of Utility in the Knee.” The Radiological Society of North America (RSNA) Education Exhibits. Chicago, November 2019. 
-(**Accepted**)
+“Ultrashort Echo Time (UTE) Imaging: Review of Technique and Musculoskeletal Applications with Examples of Utility in the Knee.” The Radiological Society of North America (RSNA) Education Exhibits. Chicago, November 2019.
 
 1. A Javed, NG Lee, **HP Do**, N Ghugre, G Wright, E Wong, and KS Nayak.<br/>
 “Optimization of Steady-Pulsed Arterial Spin Labeling for Myocardial Perfusion Imaging.” _International Society for Magnetic Resonance in Medicine 27th Scientific Meeting_, Montreal, May 2019. p. 2210.
