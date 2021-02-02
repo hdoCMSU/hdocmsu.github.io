@@ -1,5 +1,5 @@
 ---
-permalink: /projects/
+permalink: /portfolio/
 title: "Projects - under construction"
 author_profile: true
 classes: wide
