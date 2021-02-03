@@ -27,8 +27,16 @@ Talks at Scientific Meetings
 1. **HP Do**, HL Dao, NT Do, TV Ngo, AV Nguyen. <br/> 
 “On the New Type of Optical Bio-sensor from DNA-wrapped Carbon Nanotubes.” _Vietnam National Conference on Theoretical Physics 32nd Scientific Meeting_, Nha Trang, Vietnam, 2007.
 
-Training Lectures
+
+Talks and Training Lectures at [Canon Medical System USA, Inc.](https://us.medical.canon/){:target="_blank"}
 ------
+
+1. **HP Do**: _“Advanced intelligent Clear-IQ Engine (AiCE) Deep Learning Reconstruction: Interpretable Model with Explainable and Generalized Performance.”_ Zone Business Managers (ZBM) Annual Training, Canon Medical Systems USA, Inc., Irvine, CA, Nov 2020.
+
+1. **HP Do**: _“Instabilities of Deep Learning based Image Reconstruction.”_ Zone Business Managers (ZBM) Training, Canon Medical Systems USA, Inc., Irvine, CA, May 2020.
+
+1. **HP Do**: _“Advanced intelligent Clear-IQ Engine (AiCE) Deep Learning Reconstruction: Translating the Power of Deep Learning to MR Image Reconstruction.”_ Zone Business Managers (ZBM) Annual Training, Canon Medical Systems USA, Inc., Irvine, CA, Nov 2019.
+
 1. **HP Do**: _"An Introduction to Deep Learning and its applications in Healthcare."_ Clinical Scientists and Application Specialists Meeting and Training, Canon Medical Research USA, Inc., Cleveland, OH, Dec 2018.
 
 1. **HP Do**: _"k-t SPEEDER: A reference-free parallel imaging method for fast dynamic MRI."_ Zone Business Managers (ZBM) Annual Training, Canon Medical Systems USA, Inc.,Irvine, CA, Nov 2018.
