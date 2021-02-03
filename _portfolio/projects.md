@@ -1,26 +1,12 @@
 ---
 permalink: /portfolio/
-title: "Projects - under construction!!!"
+title: "Projects --- under construction ---"
 author_profile: true
 classes: wide
 redirect_from:
   - /portfolio/
     - /portfolio/projects.html
 ---
-
-- [1. Projects at Canon Medical System USA, Inc.](#1-projects-at-canon-medical-system-usa--inc)
-  * [1.1. Advanced intelligent Clear-IQ Engine (AiCE) Deep Learning Reconstruction](#11-advanced-intelligent-clear-iq-engine--aice--deep-learning-reconstruction)
-  * [1.2. Compressed SPEEDER (Compressed Sensing) MRI](#12-compressed-speeder--compressed-sensing--mri)
-- [2. Projects at the University of Southern California (USC)](#2-projects-at-the-university-of-southern-california--usc-)
-  * [2.1. ASL](#21-asl)
-  * [2.2. SMS](#22-sms)
-  * [3.3. BOLD and Relaxometry](#33-bold-and-relaxometry)
-  * [etc.](#etc)
-- [3. Projects at the Abdus Salam International Centre for Theoretical Physics (ICTP)](#3-projects-at-the-abdus-salam-international-centre-for-theoretical-physics--ictp-)
-  * [3.1. Crystal Structure Search using Constrained Optimization](#31-crystal-structure-search-using-constrained-optimization)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 ## 1. Projects at [Canon Medical System USA, Inc.](https://us.medical.canon/){:target="_blank"} 
 
@@ -32,11 +18,11 @@ redirect_from:
 
 ## 2. Projects at [the University of Southern California (USC)](https://www.usc.edu/){:target="_blank"}
 
-### 2.1. ASL
+### 2.1. Deep Learning
 
-### 2.2. SMS
+### 2.2. Quantiative Cardiac MRI
 
-### 3.3. BOLD and Relaxometry
+### 3.3. Fast Imaging
 
 ### etc.
 
