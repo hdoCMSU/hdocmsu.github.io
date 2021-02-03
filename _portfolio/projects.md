@@ -8,18 +8,22 @@ redirect_from:
     - /portfolio/projects.html
 ---
 
-# Projects at [Canon Medical System USA, Inc.](https://us.medical.canon/){:target="_blank"} 
+## 1. Projects at [Canon Medical System USA, Inc.](https://us.medical.canon/){:target="_blank"} 
 
-### [Advanced intelligent Clear-IQ Engine (AiCE) Deep Learning Reconstruction](https://us.medical.canon/products/magnetic-resonance/aice/){:target="_blank"}
+### 1.1. [Advanced intelligent Clear-IQ Engine (AiCE) Deep Learning Reconstruction](https://us.medical.canon/products/magnetic-resonance/aice/){:target="_blank"}
 
-### [Compressed SPEEDER (Compressed Sensing) MRI](https://us.medical.canon/products/magnetic-resonance/technology/compressed-speeder/){:target="_blank"}
-
-# Projects at [the University of Southern Califorina (USC)](https://www.usc.edu/){:target="_blank"}
+### 1.2. [Compressed SPEEDER (Compressed Sensing) MRI](https://us.medical.canon/products/magnetic-resonance/technology/compressed-speeder/){:target="_blank"}
 
 
-# Projects at [the Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"}
 
-### Crystal Structure Search using Constrained Optimization
+## 2. Projects at [the University of Southern Califorina (USC)](https://www.usc.edu/){:target="_blank"}
+
+
+
+
+## 3. Projects at [the Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"}
+
+### 3.1. Crystal Structure Search using Constrained Optimization
 
 This research project was part of my Postgraduate Diploma Thesis under [Prof. Sandro Scandolo's](https://www.ictp.it/phonebook/person?id=2464){:target="_blank"} supervison, Trieste, Italy, 2008-2009.
 
