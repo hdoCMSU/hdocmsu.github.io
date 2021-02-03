@@ -26,7 +26,7 @@ This research project was part of my Postgraduate Diploma Thesis under [Prof. Sa
 <center>
 <div class="container">
 <iframe class="responsive-iframe"
-src="/files/htmls/IctpThesis.html" width="672" height="400" allowfullscreen></iframe>
+src="/files/htmls/IctpThesis.html" width="650" allowfullscreen="" frameborder="0"></iframe>
 </div>
 </center>
 
