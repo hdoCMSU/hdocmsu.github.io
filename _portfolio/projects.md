@@ -37,7 +37,7 @@ This research project was part of my Postgraduate Diploma Thesis under [Prof. Sa
 <center>
 <div class="container">
 <iframe class="responsive-iframe"
-src="/files/htmls/IctpThesis.html" width="650" allowfullscreen="" frameborder="0"></iframe>
+src="/files/htmls/IctpThesis.html" width="600" allowfullscreen="" frameborder="0"></iframe>
 </div>
 </center>
 
@@ -49,7 +49,7 @@ src="/files/htmls/IctpThesis.html" width="650" allowfullscreen="" frameborder="0
 <center>
 <div class="container">
 <iframe class="responsive-iframe"
-src="/files/htmls/HungDo_template.html" width="650" allowfullscreen="" frameborder="0"></iframe>
+src="/files/htmls/HungDo_template.html" width="600" allowfullscreen="" frameborder="0"></iframe>
 </div>
 </center>
 
@@ -58,7 +58,7 @@ src="/files/htmls/HungDo_template.html" width="650" allowfullscreen="" framebord
 <center>
 <div class="container">
 <iframe class="responsive-iframe"
-src="/files/htmls/ExpFit.html" width="650" allowfullscreen="" frameborder="0"></iframe>
+src="/files/htmls/ExpFit.html" width="600" allowfullscreen="" frameborder="0"></iframe>
 </div>
 </center>
 
