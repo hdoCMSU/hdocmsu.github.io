@@ -32,7 +32,7 @@ redirect_from:
 
 ## 3. Projects at [the Abdus Salam International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/){:target="_blank"}
 
-### 3.1. Crystal Structure Search using Constrained Optimization (weblink)[https://rpubs.com/hdo2021/IctpThesis]{:target="_blank"}
+### 3.1. Crystal Structure Search using Constrained Optimization ([weblink](https://rpubs.com/hdo2021/IctpThesis){:target="_blank"})
 
 This research project was part of my Postgraduate Diploma Thesis under [Prof. Sandro Scandolo's](https://www.ictp.it/phonebook/person?id=2464){:target="_blank"} supervison, Trieste, Italy, 2008-2009.
 
@@ -46,7 +46,7 @@ src="/files/htmls/IctpThesis.html" width="600" allowfullscreen="" frameborder="0
 
 ## 4. Miscellaneous Projects
 
-### 4.1. Rmarkdown Presentation Template ([weblink](https://rpubs.com/hdo2021/HungDo_template){:target="_blank"}
+### 4.1. Rmarkdown Presentation Template ([weblink](https://rpubs.com/hdo2021/HungDo_template){:target="_blank"})
 
 <center>
 <div class="container">
@@ -55,7 +55,7 @@ src="/files/htmls/HungDo_template.html" width="600" allowfullscreen="" framebord
 </div>
 </center>
 
-### 4.2. A very simple R Shiny App (weblink)[https://rpubs.com/hdo2021/ExpFit]{:target="_blank"} and (Applink)https://hdo2021.shinyapps.io/ExpFit/[]{:target="_blank"}
+### 4.2. A very simple R Shiny App ([weblink](https://rpubs.com/hdo2021/ExpFit){:target="_blank"}) and ([Applink](https://hdo2021.shinyapps.io/ExpFit/){:target="_blank"})
 
 <center>
 <div class="container">
