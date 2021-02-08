@@ -26,7 +26,7 @@ redirect_from:
 
 ### 2.4. Quantiative Cardiac MRI
 
-### 3.5. Fast Imaging
+### 2.5. Fast Imaging
 
 ### etc.
 
