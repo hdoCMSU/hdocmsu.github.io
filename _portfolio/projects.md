@@ -22,9 +22,11 @@ redirect_from:
 
 ### 2.2. dnoiseNET: Deep Convolutional Neural Network for Denosing of low-field MRI
 
-### 2.3. Quantiative Cardiac MRI
+### 2.3. Bayesian Methods and Probabilistic Programming for Quantiative Cardiac Imaging with Uncertainty Quantification  
 
-### 3.4. Fast Imaging
+### 2.4. Quantiative Cardiac MRI
+
+### 3.5. Fast Imaging
 
 ### etc.
 
