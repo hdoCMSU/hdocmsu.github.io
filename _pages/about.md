@@ -12,7 +12,7 @@ I'm a clinical scientist (Magnetic Resonance Imaging physicist) at Canon Medical
 
 I enjoy learning new knowledge, generating new ideas, experimenting with new tools, and solving impactful problems in principal ways. My expertise and interests include:
 
-* Design and execute scientifically sound and FDA 510k-cleared clinical validation and hypothesis-driven research studies
+* Design and execute scientifically sound and FDA 510k-cleared hypothesis-driven and clinical-evaluation research studies
 * End-to-end project managements and inter-disciplinary collaborations
 * Fundamental and translational MRI research related to quantitative imaging, novel pulse sequence design, and image reconstruction
 * Applied data science, statistical learning, machine learning, and deep learning to medical imaging and healthcare
