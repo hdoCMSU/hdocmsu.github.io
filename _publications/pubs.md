@@ -36,6 +36,8 @@ Patents
 
 Whitepapers
 ------
+1. **HP Do**, D Berkeley: “Advanced intelligent Clear-IQ Engine (AiCE) Interpretable Model with Robust and Generalized Performance: Beyond Brain and Knee.” Canon Medical Systems USA, Inc., May 2021.
+
 1. **HP Do**: “Advanced intelligent Clear-IQ Engine (AiCE) Deep Learning Reconstruction: Effectively Removes Noise while Maintaining MR Signal.” Canon Medical Systems USA, Inc., July 2020. [**PDF**](https://mfl.ssl.cdn.sdlmedia.com/637309925416001229SG.pdf){:target="_blank"}
 
 1. **HP Do**: "Advanced intelligent Clear-IQ Engine (AiCE) Deep Learning Reconstruction: Translating the Power of Deep Learning to MR Image Reconstruction" Canon Medical Systems USA, Inc., March 2020. [**PDF**](https://mfl.ssl.cdn.sdlmedia.com/637271900181629483SK.pdf){:target="_blank"}
@@ -44,6 +46,18 @@ Whitepapers
 
 Peer-reviewed Conference and Workshop Abstracts
 ------
+1. **HP Do**, C Lockard, DM Berkeley, B Tymkiw, N Dulude, S Tashman, G Gold, EJ Kelly, C Ho. <br/>
+“Higher Resolution with Improved Image Quality without Increased Scan Time: Is it possible with MRI Deep Learning Reconstruction?” _International Society for Magnetic Resonance in Medicine 29th Scientific Meeting_, Virtual Meeting, May 2021
+
+1. **HP Do**, M Kadbi, DM Berkeley, B Tymkiw, EJ Kelly. <br/> 
+“Prospective Performance Evaluation of the Deep Learning Reconstruction Method at 1.5T: A Multi-Anatomy and Multi-Reader Study.” _International Society for Magnetic Resonance in Medicine 29th Scientific Meeting_, Virtual Meeting, May 2021
+
+1. M Kadbi, DM Berkeley, B Tymkiw, **HP Do**, EJ Kelly. <br/> 
+“A Paradigm shift in MR physics with Deep Learning Reconstruction: higher image quality and spatial resolution in shorter scan time.” _International Society for Magnetic Resonance in Medicine 29th Scientific Meeting_, Virtual Meeting, May 2021
+
+1. T Zaidi, J Mugler, M Hood, B Garra, E Kelly, **HP Do**, M Kadbi, S Rajan. <br/>
+“Initial Results of a Novel High-Resolution 3D-FSE Based Protocol for Silicone Breast Implant Screening.” _International Society for Magnetic Resonance in Medicine 29th Scientific Meeting_, Virtual Meeting, May 2021
+
 1. A Taguchi, T Ishimoto, **HP Do**, M Kadbi, K Shinoda. <br/>
 “Evaluation of the versatility of the Advanced intelligent Clear-IQ Engine (AiCE) in MR for various sites and contrast types.” _The 77th Annual Scientific Congress of the Japan Society of Radiological Technology (JSRT)_, Yokohama, Japan, April 2021
 
