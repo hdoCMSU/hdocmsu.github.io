@@ -19,6 +19,6 @@ I enjoy learning new knowledge, generating new ideas, experimenting with new too
 * Data visualization, data analysis, and statistics using Python, R, and Matlab
 * Bayesian methods and probabilistic programming for quantitative imaging with uncertainty quantification
 * Mathematical modeling, numerical simulations, and optimization
-* Automatic and reproducible pipelines for data manipulation and visualization, statistical analysis, and report/presentation generation using Bash, Python, R, and related packages
+* Automatic and reproducible pipelines for data manipulation and visualization, statistical analysis, and report/presentation generation using, Git version control, Bash, Python, R, and related packages
 
 Outside work, I enjoy spending time with family in nature and updating the latest advances in science and technology.
